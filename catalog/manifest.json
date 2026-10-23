@@ -1,0 +1,3477 @@
+{
+ "version": 1,
+ "units": "m",
+ "products": [
+  {
+   "id": "abo-b073whkxd4",
+   "name": "Stone & Beam · Зеркало-арка с полкой",
+   "mount": "wall",
+   "group": "Amazon · CC BY 4.0",
+   "image": "abo-b073whkxd4.b179fbf375.webp",
+   "colors": [],
+   "variants": [
+    {
+     "id": "base",
+     "name": "Стандарт",
+     "file": "abo-b073whkxd4.15c364cdfa.glb",
+     "ar_files": {
+      "": "abo-b073whkxd4.28e1af5799.ar.glb"
+     },
+     "dimensions_mm": [
+      509.8673105239868,
+      769.6009874343872,
+      137.44521141052246
+     ],
+     "source_sha256": "0892d0bd9925184856489890f8efc8cc68e18dd38f79778c9525356049f07fea",
+     "sha256": "15c364cdfa372f081973346eb2adb502ad1856503bff1a40cbf2b6b94039e377",
+     "bytes": 91236
+    }
+   ]
+  },
+  {
+   "id": "abo-b07b92c9wt",
+   "name": "Rivet · Зеркало овальное 107 см",
+   "mount": "wall",
+   "group": "Amazon · CC BY 4.0",
+   "image": "abo-b07b92c9wt.d099b9add9.webp",
+   "colors": [],
+   "variants": [
+    {
+     "id": "base",
+     "name": "Стандарт",
+     "file": "abo-b07b92c9wt.1a0a254638.glb",
+     "ar_files": {
+      "": "abo-b07b92c9wt.7f7620cb57.ar.glb"
+     },
+     "dimensions_mm": [
+      724.2990136146545,
+      1074.8339891433716,
+      37.205801139276296
+     ],
+     "source_sha256": "037ce97b8a0c7852a7e666174e4eef966b573927ba65fe909e7c000cb3797e44",
+     "sha256": "1a0a25463860472d1a918afbfcc0b01ab3c4d4a8ac92372a8786a41dda815132",
+     "bytes": 50784
+    }
+   ]
+  },
+  {
+   "id": "abo-b084hv6kdl",
+   "name": "Rivet · Зеркало в геометрической раме",
+   "mount": "wall",
+   "group": "Amazon · CC BY 4.0",
+   "image": "abo-b084hv6kdl.a32f89a068.webp",
+   "colors": [],
+   "variants": [
+    {
+     "id": "base",
+     "name": "Стандарт",
+     "file": "abo-b084hv6kdl.22aae12573.glb",
+     "ar_files": {
+      "": "abo-b084hv6kdl.284e806d9e.ar.glb"
+     },
+     "dimensions_mm": [
+      507.99983739852905,
+      603.2500267028809,
+      50.80000311136246
+     ],
+     "source_sha256": "39f1db6669be967fbc63f4c5d30c1cc6c1dcd0a45b22cdb3a1fed972077cdf58",
+     "sha256": "22aae12573d9522791fc455f3d563c290c92e53dda0c170cdc70e4bfe0c1a218",
+     "bytes": 59184
+    }
+   ]
+  },
+  {
+   "id": "abo-b07hsphzxd",
+   "name": "Rivet · Полка-соты со стеклом",
+   "mount": "wall",
+   "group": "Amazon · CC BY 4.0",
+   "image": "abo-b07hsphzxd.4a0dd2d384.webp",
+   "colors": [],
+   "variants": [
+    {
+     "id": "base",
+     "name": "Стандарт",
+     "file": "abo-b07hsphzxd.59e424456e.glb",
+     "ar_files": {
+      "": "abo-b07hsphzxd.a2453a823d.ar.glb"
+     },
+     "dimensions_mm": [
+      707.6835036277771,
+      700.7854580879211,
+      150.24476498365402
+     ],
+     "source_sha256": "54b92b5d6c7ae1ef4851771b6238ab33517ade8ad07f725f66a196a6a8b2762e",
+     "sha256": "59e424456ea8259fae4114c66f32a16bf85138f911d0ebed5a094b6e71cc6df5",
+     "bytes": 187792
+    }
+   ]
+  },
+  {
+   "id": "abo-b088hfr6w1",
+   "name": "AmazonBasics · Навесные полки-кубы 61 см",
+   "mount": "wall",
+   "group": "Amazon · CC BY 4.0",
+   "image": "abo-b088hfr6w1.b424ad0f56.webp",
+   "colors": [],
+   "variants": [
+    {
+     "id": "base",
+     "name": "Стандарт",
+     "file": "abo-b088hfr6w1.90bfe36aec.glb",
+     "ar_files": {
+      "": "abo-b088hfr6w1.68e74d5c98.ar.glb"
+     },
+     "dimensions_mm": [
+      609.5999479293823,
+      124.75456297397614,
+      199.89797380302437
+     ],
+     "source_sha256": "018e3573bac968785be1ee8271bdc9f7c50213b2a713debe75065059eaa87001",
+     "sha256": "90bfe36aec30caec0a738e5c6a378cff3a47b30f46f7df4aea5af916f82605f4",
+     "bytes": 222204
+    }
+   ]
+  },
+  {
+   "id": "abo-b07b8pxmrt",
+   "name": "Rivet · Часы настенные 46 см",
+   "mount": "wall",
+   "group": "Amazon · CC BY 4.0",
+   "image": "abo-b07b8pxmrt.2b50caaa40.webp",
+   "colors": [],
+   "variants": [
+    {
+     "id": "base",
+     "name": "Стандарт",
+     "file": "abo-b07b8pxmrt.fa43537732.glb",
+     "ar_files": {
+      "": "abo-b07b8pxmrt.bf80b03729.ar.glb"
+     },
+     "dimensions_mm": [
+      453.87405157089233,
+      453.87405157089233,
+      37.73780167102814
+     ],
+     "source_sha256": "f284830239d35d974c48a61e69fe5ef02fb9c200834187fa01345e8dcd3aed3c",
+     "sha256": "fa43537732590da6ca88f9bc655989f90cc91961101adb8e2fca3eeaf32906a1",
+     "bytes": 75320
+    }
+   ]
+  },
+  {
+   "id": "abo-b07b8ny189",
+   "name": "Stone & Beam · Вешалка настенная, орех",
+   "mount": "wall",
+   "group": "Amazon · CC BY 4.0",
+   "image": "abo-b07b8ny189.bf21abad76.webp",
+   "colors": [],
+   "variants": [
+    {
+     "id": "base",
+     "name": "Стандарт",
+     "file": "abo-b07b8ny189.30c7e52d08.glb",
+     "ar_files": {
+      "": "abo-b07b8ny189.c2bdfc496c.ar.glb"
+     },
+     "dimensions_mm": [
+      553.9775490760803,
+      116.49259179830551,
+      75.93381404876709
+     ],
+     "source_sha256": "aa8cea1bc6a16d04a25622ba914480052e291dc8eb485345f2c6f569f849482f",
+     "sha256": "30c7e52d08be6a5489e571be3705cad81b9c93895dbf2e74e39d8d35ec11f1fd",
+     "bytes": 114628
+    }
+   ]
+  },
+  {
+   "id": "abo-b07b4z9c39",
+   "name": "Stone & Beam · Светильник над зеркалом",
+   "mount": "wall",
+   "group": "Amazon · CC BY 4.0",
+   "image": "abo-b07b4z9c39.60d02c4a9b.webp",
+   "colors": [],
+   "variants": [
+    {
+     "id": "base",
+     "name": "Стандарт",
+     "file": "abo-b07b4z9c39.0b5bc94465.glb",
+     "ar_files": {
+      "": "abo-b07b4z9c39.47a3dbd04b.ar.glb"
+     },
+     "dimensions_mm": [
+      637.6226544380188,
+      292.1285629272461,
+      177.28044092655182
+     ],
+     "source_sha256": "f2b6b4f4bcd2d8896c17ae7fce2ac35e62fd5a125818da81d0087aae3abc5e8b",
+     "sha256": "0b5bc9446502d5b720cbc37575642d4cff011e01620c0ef2d2bcda438e92f628",
+     "bytes": 209348
+    }
+   ]
+  },
+  {
+   "id": "abo-b075yv7v1p",
+   "name": "Rivet · Стул Ray",
+   "mount": "floor",
+   "group": "Amazon · CC BY 4.0",
+   "image": "abo-b075yv7v1p.48a2eda4ac.webp",
+   "colors": [],
+   "variants": [
+    {
+     "id": "base",
+     "name": "Стандарт",
+     "file": "abo-b075yv7v1p.e6a2afdfd5.glb",
+     "ar_files": {
+      "": "abo-b075yv7v1p.bccf8eb7a1.ar.glb"
+     },
+     "dimensions_mm": [
+      471.750408411026,
+      889.4266486167908,
+      560.5731904506683
+     ],
+     "source_sha256": "6a7c6a1fe23f15d60198378d069050b8453130b9461404123245c333736adf47",
+     "sha256": "e6a2afdfd5b9486489794db83b857621f85a9fd980781ef5e00747c7fb665a5a",
+     "bytes": 365468
+    }
+   ]
+  },
+  {
+   "id": "abo-b084t7p7hw",
+   "name": "Stone & Beam · Барный стул",
+   "mount": "floor",
+   "group": "Amazon · CC BY 4.0",
+   "image": "abo-b084t7p7hw.c4963afc1d.webp",
+   "colors": [],
+   "variants": [
+    {
+     "id": "base",
+     "name": "Стандарт",
+     "file": "abo-b084t7p7hw.f80731630b.glb",
+     "ar_files": {
+      "": "abo-b084t7p7hw.7af0541bad.ar.glb"
+     },
+     "dimensions_mm": [
+      482.59997367858887,
+      1092.2003984451294,
+      571.5000033378601
+     ],
+     "source_sha256": "36f2e6f89d35b9bac3e75f6408e9b831bf5318d14609b85190fb31b8cec018aa",
+     "sha256": "f80731630b39853f5aaa49e58e8500f9d5d4e370d988795cb48222770da93e92",
+     "bytes": 76180
+    }
+   ]
+  },
+  {
+   "id": "abo-b07qgsz38g",
+   "name": "Rivet · Кресло Adrienne",
+   "mount": "floor",
+   "group": "Amazon · CC BY 4.0",
+   "image": "abo-b07qgsz38g.5382db6f2e.webp",
+   "colors": [],
+   "variants": [
+    {
+     "id": "base",
+     "name": "Стандарт",
+     "file": "abo-b07qgsz38g.8215950288.glb",
+     "ar_files": {
+      "": "abo-b07qgsz38g.baf54a24f9.ar.glb"
+     },
+     "dimensions_mm": [
+      759.9699795246124,
+      810.0099563598633,
+      729.9999594688416
+     ],
+     "source_sha256": "81f35c0308d55fcd1d9929fc0bd7cd48f01f583df22be75c3b00c7ab915c0526",
+     "sha256": "82159502887db20522a5a8848f0927983300ae113bd10f89f24de134d277020d",
+     "bytes": 551240
+    }
+   ]
+  },
+  {
+   "id": "abo-b07b4n273d",
+   "name": "Rivet · Кресло Edgewest",
+   "mount": "floor",
+   "group": "Amazon · CC BY 4.0",
+   "image": "abo-b07b4n273d.a42e0a1e10.webp",
+   "colors": [],
+   "variants": [
+    {
+     "id": "base",
+     "name": "Стандарт",
+     "file": "abo-b07b4n273d.fccf964e61.glb",
+     "ar_files": {
+      "": "abo-b07b4n273d.c2d9bcf878.ar.glb"
+     },
+     "dimensions_mm": [
+      963.0311131477356,
+      861.3567352294922,
+      865.7378852367401
+     ],
+     "source_sha256": "6ec560811a92870abe1153c542042f30f17e135aa19b587433a846857727a71f",
+     "sha256": "fccf964e61f09887f9d268dc3ceddf156c192a933ea2abe719eafc767080821a",
+     "bytes": 546524
+    }
+   ]
+  },
+  {
+   "id": "abo-b07fjvxvry",
+   "name": "Artum Hill · Диван Olivia",
+   "mount": "floor",
+   "group": "Amazon · CC BY 4.0",
+   "image": "abo-b07fjvxvry.7a01a4b2e8.webp",
+   "colors": [],
+   "variants": [
+    {
+     "id": "base",
+     "name": "Стандарт",
+     "file": "abo-b07fjvxvry.eda3e155b8.glb",
+     "ar_files": {
+      "": "abo-b07fjvxvry.03b464e584.ar.glb"
+     },
+     "dimensions_mm": [
+      2031.999701499934,
+      812.8000380516082,
+      888.9999678134927
+     ],
+     "source_sha256": "b00fe1be0a8d886fb0f52353097db2e4c449fd06eec78fd6599dfea664dc01ff",
+     "sha256": "eda3e155b8b4788265e7b47a5c1ec663df233a89e62e85062e628477741f4bfd",
+     "bytes": 261952
+    }
+   ]
+  },
+  {
+   "id": "abo-b07hpmf4px",
+   "name": "Alkove · Кожаный диван Sofia",
+   "mount": "floor",
+   "group": "Amazon · CC BY 4.0",
+   "image": "abo-b07hpmf4px.4bb0ec88f8.webp",
+   "colors": [],
+   "variants": [
+    {
+     "id": "base",
+     "name": "Стандарт",
+     "file": "abo-b07hpmf4px.c7d195d31c.glb",
+     "ar_files": {
+      "": "abo-b07hpmf4px.0f8552a971.ar.glb"
+     },
+     "dimensions_mm": [
+      1884.1015100479126,
+      760.7449293136597,
+      929.0401339530945
+     ],
+     "source_sha256": "cf14e3e0156326a92a0c14a9ee054c76921e253a84a769c7e9816713b08edd7a",
+     "sha256": "c7d195d31c099d1706262c88640328a818ac99574c13db0cf5c6aa9b79c8e1e0",
+     "bytes": 575716
+    }
+   ]
+  },
+  {
+   "id": "abo-b075z8m2bw",
+   "name": "Stone & Beam · Журнальный стол Roland",
+   "mount": "floor",
+   "group": "Amazon · CC BY 4.0",
+   "image": "abo-b075z8m2bw.3cef4e79ba.webp",
+   "colors": [],
+   "variants": [
+    {
+     "id": "base",
+     "name": "Стандарт",
+     "file": "abo-b075z8m2bw.5e9182f400.glb",
+     "ar_files": {
+      "": "abo-b075z8m2bw.163d5f50f9.ar.glb"
+     },
+     "dimensions_mm": [
+      898.8301753997803,
+      451.1876106262207,
+      908.708393573761
+     ],
+     "source_sha256": "0c814ad91f681f54339689539eb170252fd3fa048415db479c282a3ae493cfe7",
+     "sha256": "5e9182f4001027a19d66d366dcf4f3c3d16af0a3ffa547265c86ac2d63620f22",
+     "bytes": 189116
+    }
+   ]
+  },
+  {
+   "id": "abo-b072zmt5r7",
+   "name": "Rivet · Приставной столик",
+   "mount": "floor",
+   "group": "Amazon · CC BY 4.0",
+   "image": "abo-b072zmt5r7.46da4b909b.webp",
+   "colors": [],
+   "variants": [
+    {
+     "id": "base",
+     "name": "Стандарт",
+     "file": "abo-b072zmt5r7.b053455d51.glb",
+     "ar_files": {
+      "": "abo-b072zmt5r7.75e4a04a93.ar.glb"
+     },
+     "dimensions_mm": [
+      500.03582239151,
+      531.2461853027344,
+      500.03594160079956
+     ],
+     "source_sha256": "556fd8276c9c0d1bb064dad0e0250630f42b9e6eceafe77224b0b91f674b6490",
+     "sha256": "b053455d51e17d5b93027da5a4edaccca7291b88548cf24cd0de0a98e25597d5",
+     "bytes": 83668
+    }
+   ]
+  },
+  {
+   "id": "abo-b07cbnz6r9",
+   "name": "Rivet · Кашпо на подставке",
+   "mount": "floor",
+   "group": "Amazon · CC BY 4.0",
+   "image": "abo-b07cbnz6r9.17cf215b35.webp",
+   "colors": [],
+   "variants": [
+    {
+     "id": "base",
+     "name": "Стандарт",
+     "file": "abo-b07cbnz6r9.850d30729b.glb",
+     "ar_files": {
+      "": "abo-b07cbnz6r9.ecbbbb2226.ar.glb"
+     },
+     "dimensions_mm": [
+      345.2102243900299,
+      464.8072421550751,
+      353.8367748260498
+     ],
+     "source_sha256": "681091e0cf804f7fec8252228aa6a507a6d67a815d3992980feb1342bae8d435",
+     "sha256": "850d30729b776732b489045e15da822a4bc31e79561ee5202b08dda7aa9d9854",
+     "bytes": 109200
+    }
+   ]
+  },
+  {
+   "id": "abo-b0825cxg81",
+   "name": "Rivet · Настольная лампа",
+   "mount": "floor",
+   "group": "Amazon · CC BY 4.0",
+   "image": "abo-b0825cxg81.0d1018d374.webp",
+   "colors": [],
+   "variants": [
+    {
+     "id": "base",
+     "name": "Стандарт",
+     "file": "abo-b0825cxg81.86d372a50b.glb",
+     "ar_files": {
+      "": "abo-b0825cxg81.f6bffe2e96.ar.glb"
+     },
+     "dimensions_mm": [
+      227.73323953151703,
+      444.42224502563477,
+      227.73316502571106
+     ],
+     "source_sha256": "d373a930f218821242b92706245e5904656272a805945afe0273cd90d0d9c5c5",
+     "sha256": "86d372a50bbfc05b9031755526726b76e9674470a640c02253a8b329170bffe1",
+     "bytes": 313568
+    }
+   ]
+  },
+  {
+   "id": "round-mono",
+   "name": "FLOW ROUND Mono",
+   "mount": "wall",
+   "image": "round-mono.878284c05b.webp",
+   "colors": [
+    {
+     "id": "black",
+     "name": "Чёрный",
+     "base_color": [
+      0.03,
+      0.032,
+      0.035
+     ],
+     "roughness": 0.42
+    },
+    {
+     "id": "white",
+     "name": "Белый",
+     "base_color": [
+      0.82,
+      0.82,
+      0.82
+     ],
+     "roughness": 0.42
+    }
+   ],
+   "variants": [
+    {
+     "id": "20",
+     "name": "20 см",
+     "file": "round-mono.9bc7d11755.glb",
+     "ar_files": {
+      "black": "round-mono.5459ba9be0.ar.glb",
+      "white": "round-mono.78d5db7bd1.ar.glb"
+     },
+     "dimensions_mm": [
+      200.0,
+      90.0,
+      92.00000000000432
+     ],
+     "source_sha256": "dbdab831458ae8d60747127b64a8cc69236f8a6555ad50960c5b3408c55362d3",
+     "sha256": "9bc7d11755501c95bab1b3e03a34b632eb50d2f4d30ca9d3fcc75dead4932706",
+     "bytes": 6952
+    },
+    {
+     "id": "30",
+     "name": "30 см",
+     "file": "round-mono.851dc69c04.glb",
+     "ar_files": {
+      "black": "round-mono.3066dd2885.ar.glb",
+      "white": "round-mono.6a50f169e5.ar.glb"
+     },
+     "dimensions_mm": [
+      300.0,
+      90.00000000000003,
+      92.0
+     ],
+     "source_sha256": "c43dd66b5d2afb2e4e030823b993391cc3bfa7cab516b9c6639872880f58768d",
+     "sha256": "851dc69c04e32d99af95ed42c951a23d66fa2734853d92b1a3141f60ecc9c1d6",
+     "bytes": 6756
+    },
+    {
+     "id": "40",
+     "name": "40 см",
+     "file": "round-mono.b1e509e8a2.glb",
+     "ar_files": {
+      "black": "round-mono.729fd526a3.ar.glb",
+      "white": "round-mono.54f7935312.ar.glb"
+     },
+     "dimensions_mm": [
+      400.00000000000006,
+      90.0,
+      92.0
+     ],
+     "source_sha256": "1768b5eeb8f1b9576a4eb6e21dfe08c0c45a1c941c227f21770f9893b5ecff57",
+     "sha256": "b1e509e8a2c0c471789f64c254ed0687852640c28489a07c7d35763cd1071885",
+     "bytes": 6376
+    },
+    {
+     "id": "50",
+     "name": "50 см",
+     "file": "round-mono.4c361b4785.glb",
+     "ar_files": {
+      "black": "round-mono.526ec16922.ar.glb",
+      "white": "round-mono.2239072224.ar.glb"
+     },
+     "dimensions_mm": [
+      500.0000000000001,
+      90.0,
+      92.0
+     ],
+     "source_sha256": "6ab4035735a9b9152059f6445f46bbbea65dde6d8c6c2fb8d8a74e1e46acce3c",
+     "sha256": "4c361b47850bfa7a7e1e35d8a142e4ac7fbf307e1d7dbd23910224649736b3fa",
+     "bytes": 6248
+    },
+    {
+     "id": "60",
+     "name": "60 см",
+     "file": "round-mono.ca70e1e0db.glb",
+     "ar_files": {
+      "black": "round-mono.8a74c8a8b5.ar.glb",
+      "white": "round-mono.2410fd6fa1.ar.glb"
+     },
+     "dimensions_mm": [
+      600.0,
+      90.00000000000017,
+      92.0
+     ],
+     "source_sha256": "65211ed6be768e8c245ed85f8d4f6a8f0202d05540220fe308d5fd347780d77f",
+     "sha256": "ca70e1e0db7ff045069391664cbd6ea58833bbe844e140e4757d42b400b8777d",
+     "bytes": 6468
+    },
+    {
+     "id": "70",
+     "name": "70 см",
+     "file": "round-mono.193b078bf1.glb",
+     "ar_files": {
+      "black": "round-mono.824dcbd3e2.ar.glb",
+      "white": "round-mono.3d0d97c265.ar.glb"
+     },
+     "dimensions_mm": [
+      700.0,
+      90.00000000000017,
+      92.00000000000006
+     ],
+     "source_sha256": "abdfc60a145acdd64b547d200845e1b108d4467c69fbf97d4c7ca01c6f56ce97",
+     "sha256": "193b078bf17f41c5a90d0ee482a73050df5dfe5a022b5e88361dfbbe2a825e8a",
+     "bytes": 6304
+    },
+    {
+     "id": "80",
+     "name": "80 см",
+     "file": "round-mono.185e3c304e.glb",
+     "ar_files": {
+      "black": "round-mono.19925d33b0.ar.glb",
+      "white": "round-mono.8fc1abddc4.ar.glb"
+     },
+     "dimensions_mm": [
+      800.0,
+      90.00000000000028,
+      92.0
+     ],
+     "source_sha256": "de189c1b880beded5d07390e46ed524f44a069d5c13a3a747ce08eece0485ccc",
+     "sha256": "185e3c304e7f683c3e1ddc61a199ee6336bd43b4f22a13da24ba3db0d9b9eb2c",
+     "bytes": 7080
+    },
+    {
+     "id": "90",
+     "name": "90 см",
+     "file": "round-mono.3a387d5435.glb",
+     "ar_files": {
+      "black": "round-mono.e77272321b.ar.glb",
+      "white": "round-mono.cf1748f4ee.ar.glb"
+     },
+     "dimensions_mm": [
+      900.0,
+      90.00000000000028,
+      92.0
+     ],
+     "source_sha256": "f8d6209fb830a317abbf8ac654888f026628e92250d732b641588ead85e9d7f9",
+     "sha256": "3a387d54358129f1a5da8906ec8ab9d60aafd623bbf2614f0fe22cee488b09a2",
+     "bytes": 7524
+    },
+    {
+     "id": "100",
+     "name": "100 см",
+     "file": "round-mono.e81dd49644.glb",
+     "ar_files": {
+      "black": "round-mono.98e93c63a1.ar.glb",
+      "white": "round-mono.e148f8e58a.ar.glb"
+     },
+     "dimensions_mm": [
+      999.9999999999999,
+      90.00000000000034,
+      92.64508143121645
+     ],
+     "source_sha256": "40fac872e40566f6e6012918ee5dd9bd7e3d1dc4303d94651d1b30f0e8aa901f",
+     "sha256": "e81dd49644d5e955fe9280fc8c8bf2c838f5bd6a1eb8b2af2a7e94a4e3b4f718",
+     "bytes": 7288
+    },
+    {
+     "id": "120",
+     "name": "120 см",
+     "file": "round-mono.e9bcce23eb.glb",
+     "ar_files": {
+      "black": "round-mono.3e77448671.ar.glb",
+      "white": "round-mono.10248efaab.ar.glb"
+     },
+     "dimensions_mm": [
+      1200.0,
+      90.00000000000034,
+      92.0
+     ],
+     "source_sha256": "53af9a289d1b4ff2f08aef64031cdf098cf854f9e1257a324d7a57b7fab681ac",
+     "sha256": "e9bcce23eb748a8866cd2bf27494d568f373d01fee76b591c0707aa647799469",
+     "bytes": 7548
+    },
+    {
+     "id": "150",
+     "name": "150 см",
+     "file": "round-mono.fca594c076.glb",
+     "ar_files": {
+      "black": "round-mono.d58e08dd02.ar.glb",
+      "white": "round-mono.5c0bfc72b2.ar.glb"
+     },
+     "dimensions_mm": [
+      1500.0000000000002,
+      90.00000000000023,
+      93.0
+     ],
+     "source_sha256": "e76145305162c368f36c14842fc78ba3ca2cbc5816a3225e430b7e69c775ab33",
+     "sha256": "fca594c076279fe9dbeb5845049e4930cb442026f4fe1d09c20ed90f7e447914",
+     "bytes": 7736
+    },
+    {
+     "id": "180",
+     "name": "180 см",
+     "file": "round-mono.c2f66fd158.glb",
+     "ar_files": {
+      "black": "round-mono.379dae4b49.ar.glb",
+      "white": "round-mono.5305dbb54d.ar.glb"
+     },
+     "dimensions_mm": [
+      1800.0000000000002,
+      90.00000000000045,
+      92.00000000000011
+     ],
+     "source_sha256": "ac87e2e28129cc402f0f53bca7da7bb5aaabb65d7975f646848b725442142f19",
+     "sha256": "c2f66fd15870bf93a8b7299f766839f2866c16c1ffe8c6445985214ccaff2272",
+     "bytes": 7780
+    }
+   ]
+  },
+  {
+   "id": "skyline-mono",
+   "name": "FLOW SKYLINE Mono",
+   "mount": "wall",
+   "image": "skyline-mono.ce0e1363ed.webp",
+   "colors": [
+    {
+     "id": "black",
+     "name": "Чёрный",
+     "base_color": [
+      0.03,
+      0.032,
+      0.035
+     ],
+     "roughness": 0.42
+    },
+    {
+     "id": "white",
+     "name": "Белый",
+     "base_color": [
+      0.82,
+      0.82,
+      0.82
+     ],
+     "roughness": 0.42
+    }
+   ],
+   "variants": [
+    {
+     "id": "20",
+     "name": "20 см",
+     "file": "skyline-mono.4064f25b7d.glb",
+     "ar_files": {
+      "black": "skyline-mono.9b54e73b16.ar.glb",
+      "white": "skyline-mono.a12e839c70.ar.glb"
+     },
+     "dimensions_mm": [
+      200.00000000000003,
+      90.0,
+      92.00000000000432
+     ],
+     "source_sha256": "526a7afb64e56418ff52e0be89122f116ab48292cb306b4db9ff54f3f73f3b98",
+     "sha256": "4064f25b7d7bcb9c78848ca1f3c5fed71e7f7e4be2a477f2f6fd9bd30027e235",
+     "bytes": 6396
+    },
+    {
+     "id": "30",
+     "name": "30 см",
+     "file": "skyline-mono.a93d1b52cb.glb",
+     "ar_files": {
+      "black": "skyline-mono.38e8cbec98.ar.glb",
+      "white": "skyline-mono.decf0df679.ar.glb"
+     },
+     "dimensions_mm": [
+      299.99999999999994,
+      90.00000000000003,
+      92.0
+     ],
+     "source_sha256": "a3c30ea2231d89b0e9411048be73d60376835b677a73fd814978b807bc931886",
+     "sha256": "a93d1b52cb6915a2e8c3ecb0610baec26348f0a7b9eb032e07cf2babea0313b1",
+     "bytes": 6116
+    },
+    {
+     "id": "40",
+     "name": "40 см",
+     "file": "skyline-mono.480a8054e1.glb",
+     "ar_files": {
+      "black": "skyline-mono.2d8f369eb2.ar.glb",
+      "white": "skyline-mono.d91ee76a45.ar.glb"
+     },
+     "dimensions_mm": [
+      400.00000000000006,
+      90.0,
+      92.0
+     ],
+     "source_sha256": "eb7bac10fb37d69b34162faddf850717884f2b6cddba574d0d9edb880ab1f36a",
+     "sha256": "480a8054e19612976e72a1da656d1d14ab2d0ab13e1e11fab1f7b99d57db96f6",
+     "bytes": 5800
+    },
+    {
+     "id": "50",
+     "name": "50 см",
+     "file": "skyline-mono.672ac744e9.glb",
+     "ar_files": {
+      "black": "skyline-mono.382f54795b.ar.glb",
+      "white": "skyline-mono.e7f77b816b.ar.glb"
+     },
+     "dimensions_mm": [
+      500.00000000000006,
+      90.0,
+      92.0
+     ],
+     "source_sha256": "23408d649d813f65cd883cfb2d19047b670148015548f6b3b11a0cfdafa41379",
+     "sha256": "672ac744e9ad7908949a640713d15aeb59f30fe37a2bcbd24f6b1eb8595e3ac4",
+     "bytes": 5628
+    },
+    {
+     "id": "60",
+     "name": "60 см",
+     "file": "skyline-mono.5914b09ac2.glb",
+     "ar_files": {
+      "black": "skyline-mono.f6eae3593d.ar.glb",
+      "white": "skyline-mono.06b61e86cc.ar.glb"
+     },
+     "dimensions_mm": [
+      600.0,
+      90.0,
+      92.0
+     ],
+     "source_sha256": "0bf08c865b3d3f35d2d281d61f156f8285abc82be039577fafc73bf7c3750efc",
+     "sha256": "5914b09ac2ab4cd9e46d5479952674e89bd5c3e0b429a11c9a6fc7f74afd802f",
+     "bytes": 5888
+    },
+    {
+     "id": "70",
+     "name": "70 см",
+     "file": "skyline-mono.c96938d304.glb",
+     "ar_files": {
+      "black": "skyline-mono.e2c7b1070e.ar.glb",
+      "white": "skyline-mono.e8b7c39e09.ar.glb"
+     },
+     "dimensions_mm": [
+      700.0,
+      90.00000000000006,
+      92.00000000000006
+     ],
+     "source_sha256": "739dec103958faffd497274e7a8d35b09a716b6f60e290cc350cbd9aa8104969",
+     "sha256": "c96938d304a9e583b8b5c22a3c66f3537eb18bb05ac29e844bd7fede29bab063",
+     "bytes": 5664
+    },
+    {
+     "id": "80",
+     "name": "80 см",
+     "file": "skyline-mono.a43297525d.glb",
+     "ar_files": {
+      "black": "skyline-mono.67a0b3661c.ar.glb",
+      "white": "skyline-mono.f64ac0eb6c.ar.glb"
+     },
+     "dimensions_mm": [
+      800.0,
+      90.00000000000017,
+      92.0
+     ],
+     "source_sha256": "7e718c781a13e6ddf5da6018c3918792696912cbf1aac3fa0ece92b518d49a4d",
+     "sha256": "a43297525d8c073845e2738c4251f0f31f90d1bb1e8ecdecafbac8909faae172",
+     "bytes": 6432
+    },
+    {
+     "id": "90",
+     "name": "90 см",
+     "file": "skyline-mono.b515db64a0.glb",
+     "ar_files": {
+      "black": "skyline-mono.781525345b.ar.glb",
+      "white": "skyline-mono.87f7c4b5a0.ar.glb"
+     },
+     "dimensions_mm": [
+      900.0,
+      90.00000000000028,
+      92.0
+     ],
+     "source_sha256": "bca16268485a3ad15adfa1969953a15e45fdfe4f97d7a62c0736d50b290f284e",
+     "sha256": "b515db64a0ad1758991cdee046e581cfb0ee40da39a2edf2c0c46d6be6957843",
+     "bytes": 6880
+    },
+    {
+     "id": "100",
+     "name": "100 см",
+     "file": "skyline-mono.e737ae55b4.glb",
+     "ar_files": {
+      "black": "skyline-mono.609b7beb8e.ar.glb",
+      "white": "skyline-mono.2b16110089.ar.glb"
+     },
+     "dimensions_mm": [
+      999.9999999999999,
+      90.00000000000034,
+      92.64508143121645
+     ],
+     "source_sha256": "84f1f4ce4b067041c05be0199c8201c9b29b1e46379c64d6d59f70064f428dc8",
+     "sha256": "e737ae55b4a9556a3296f52f6b9232b556f0e104483f73e02d803a5100047d36",
+     "bytes": 6644
+    },
+    {
+     "id": "120",
+     "name": "120 см",
+     "file": "skyline-mono.b8be73244a.glb",
+     "ar_files": {
+      "black": "skyline-mono.23050162ef.ar.glb",
+      "white": "skyline-mono.8b4d21ebdc.ar.glb"
+     },
+     "dimensions_mm": [
+      1200.0000000000002,
+      90.00000000000034,
+      92.0
+     ],
+     "source_sha256": "cf8cd372dba9f9c81d7e33b33927b2771a426a8cc4607f8f9a6833386328e879",
+     "sha256": "b8be73244aa26f16d9105b7ff085342ccc15eb6825b4b60ca1f4f954b823eb7d",
+     "bytes": 6920
+    },
+    {
+     "id": "150",
+     "name": "150 см",
+     "file": "skyline-mono.0ef6570de6.glb",
+     "ar_files": {
+      "black": "skyline-mono.18cef01050.ar.glb",
+      "white": "skyline-mono.33e9a8a958.ar.glb"
+     },
+     "dimensions_mm": [
+      1500.0000000000002,
+      90.00000000000023,
+      93.0
+     ],
+     "source_sha256": "8f8484e616511d98123d7b07768e71bc09a1317472b650d19fb74b7367d7b984",
+     "sha256": "0ef6570de63ff576031b031cb2e09add91c77aaf8cf69a9978cff05a6e664059",
+     "bytes": 7104
+    },
+    {
+     "id": "180",
+     "name": "180 см",
+     "file": "skyline-mono.8ec924c321.glb",
+     "ar_files": {
+      "black": "skyline-mono.209a6b9c6e.ar.glb",
+      "white": "skyline-mono.dd01151d84.ar.glb"
+     },
+     "dimensions_mm": [
+      1800.0000000000002,
+      90.00000000000045,
+      92.00000000000011
+     ],
+     "source_sha256": "e4311262a459a1502cc03daf019670400976ffb86251d4bd083a0fc3dd3d674b",
+     "sha256": "8ec924c321e55893468bf7408cab8087be06ec57b35593734fa5ae9e65583e9b",
+     "bytes": 7120
+    }
+   ]
+  },
+  {
+   "id": "round-trio",
+   "name": "FLOW ROUND Trio",
+   "mount": "wall",
+   "image": "round-trio.ff36ba4641.webp",
+   "colors": [
+    {
+     "id": "black",
+     "name": "Чёрный",
+     "base_color": [
+      0.03,
+      0.032,
+      0.035
+     ],
+     "roughness": 0.42
+    },
+    {
+     "id": "white",
+     "name": "Белый",
+     "base_color": [
+      0.82,
+      0.82,
+      0.82
+     ],
+     "roughness": 0.42
+    }
+   ],
+   "variants": [
+    {
+     "id": "left",
+     "name": "Левая",
+     "file": "round-trio.2ea8ded343.glb",
+     "ar_files": {
+      "black": "round-trio.b65a793971.ar.glb",
+      "white": "round-trio.608c771025.ar.glb"
+     },
+     "dimensions_mm": [
+      700.0,
+      90.00000000000017,
+      130.0
+     ],
+     "source_sha256": "e365ef8578e8d067f1b8c109974c54fc33e0624a220a0ef83bc9eea2820bb9f7",
+     "sha256": "2ea8ded343cff8bbdbbe326e850d025e1cf888e9ed2585074e02f596c290b276",
+     "bytes": 8972
+    },
+    {
+     "id": "right",
+     "name": "Правая",
+     "file": "round-trio.e0c0f64365.glb",
+     "ar_files": {
+      "black": "round-trio.e261f3f6ba.ar.glb",
+      "white": "round-trio.831f25462f.ar.glb"
+     },
+     "dimensions_mm": [
+      700.0,
+      90.00000000000011,
+      130.0
+     ],
+     "source_sha256": "7b59cfc5a3ca0694ed3bbf2424c7f1181a0fba9975f004c8dd74b872f1dd1760",
+     "sha256": "e0c0f6436506d3377f93c08bc0527ae1c9a82c89ddfa03992b148a05bf09d54e",
+     "bytes": 8716
+    }
+   ]
+  },
+  {
+   "id": "bee-trio",
+   "name": "FLOW BEE Trio",
+   "mount": "wall",
+   "image": "bee-trio.742b6a2064.webp",
+   "colors": [
+    {
+     "id": "black",
+     "name": "Чёрный",
+     "base_color": [
+      0.03,
+      0.032,
+      0.035
+     ],
+     "roughness": 0.42
+    },
+    {
+     "id": "white",
+     "name": "Белый",
+     "base_color": [
+      0.82,
+      0.82,
+      0.82
+     ],
+     "roughness": 0.42
+    }
+   ],
+   "variants": [
+    {
+     "id": "с-полотенцедержателем-left",
+     "name": "С полотенцедержателем, левая",
+     "file": "bee-trio.2be5ca08de.glb",
+     "ar_files": {
+      "black": "bee-trio.a37f432c2e.ar.glb",
+      "white": "bee-trio.39276a657b.ar.glb"
+     },
+     "dimensions_mm": [
+      700.0,
+      90.00000000000006,
+      130.0
+     ],
+     "source_sha256": "7eb7d96124570b0ef1680a72601fe4edca7c2ee28ad6aaf535095816e9bb13c8",
+     "sha256": "2be5ca08deed15d098de68652b608c298e9e6f51a0c828879c7c8b841abaf12f",
+     "bytes": 52188
+    },
+    {
+     "id": "с-полотенцедержателем-right",
+     "name": "С полотенцедержателем, правая",
+     "file": "bee-trio.35062390bd.glb",
+     "ar_files": {
+      "black": "bee-trio.f0cff35ef9.ar.glb",
+      "white": "bee-trio.232e9b7842.ar.glb"
+     },
+     "dimensions_mm": [
+      700.0,
+      90.00000000000006,
+      130.00000000000006
+     ],
+     "source_sha256": "bde50f6f4a9dfeaddef3d7c490ce60fdccee3c6479933149a5049816d3ab9c4d",
+     "sha256": "35062390bd9a6a811f334bd03c75cf03c8462c660128cd052c3cab6038bee7e0",
+     "bytes": 51228
+    }
+   ]
+  },
+  {
+   "id": "round-prima",
+   "name": "FLOW ROUND Prima",
+   "mount": "wall",
+   "image": "round-prima.24fdd0a94e.webp",
+   "colors": [
+    {
+     "id": "black",
+     "name": "Чёрный",
+     "base_color": [
+      0.03,
+      0.032,
+      0.035
+     ],
+     "roughness": 0.42
+    },
+    {
+     "id": "white",
+     "name": "Белый",
+     "base_color": [
+      0.82,
+      0.82,
+      0.82
+     ],
+     "roughness": 0.42
+    }
+   ],
+   "variants": [
+    {
+     "id": "без-крючков",
+     "name": "Без крючков",
+     "file": "round-prima.c403ff9ddc.glb",
+     "ar_files": {
+      "black": "round-prima.3bdfa59b88.ar.glb",
+      "white": "round-prima.5ad74aebde.ar.glb"
+     },
+     "dimensions_mm": [
+      151.16549101520445,
+      1000.0,
+      96.0
+     ],
+     "source_sha256": "4125f0738cef8ed2623a956ecfc76e32b713fcd690ec5c343426a26f6d7573ca",
+     "sha256": "c403ff9ddcf226ece5899481566a8e3c9bb2446b4cd6d22e0c46c97e47a86f5f",
+     "bytes": 10104
+    },
+    {
+     "id": "с-крючками",
+     "name": "С крючками",
+     "file": "round-prima.d2ed59d690.glb",
+     "ar_files": {
+      "black": "round-prima.27f5fd0d10.ar.glb",
+      "white": "round-prima.8b0f9dfae2.ar.glb"
+     },
+     "dimensions_mm": [
+      151.16549101520434,
+      1000.0,
+      96.00000000001444
+     ],
+     "source_sha256": "466d7b76d99f1963fb53830c7d855ab1ce154e2459d3b53bcd6c9351a2d208b1",
+     "sha256": "d2ed59d6908a1fb715bc5285fb722565a5f2bedbe25ad28331cb4d34a3dc06ad",
+     "bytes": 17200
+    }
+   ]
+  },
+  {
+   "id": "sample-chair",
+   "name": "SheenChair · кресло",
+   "mount": "floor",
+   "group": "Тестовые",
+   "image": "sample-chair.020478da66.webp",
+   "colors": [],
+   "variants": [
+    {
+     "id": "base",
+     "name": "Стандарт",
+     "file": "sample-chair.dadc0fde78.glb",
+     "ar_files": {
+      "": "sample-chair.037d5621b4.ar.glb"
+     },
+     "dimensions_mm": [
+      826.5579640865326,
+      686.2470911801211,
+      570.2654719352722
+     ],
+     "source_sha256": "f0af2a2b102d28d540236306ae19f8fb36842df76bd38cf76f063f9bd2853399",
+     "sha256": "dadc0fde788203140109aac4276e924386db345b2fac008906090d1fe2fa2e8a",
+     "bytes": 742684
+    }
+   ]
+  },
+  {
+   "id": "sample-car",
+   "name": "ToyCar · машинка",
+   "mount": "floor",
+   "group": "Тестовые",
+   "image": "sample-car.c785c2381a.webp",
+   "colors": [],
+   "variants": [
+    {
+     "id": "base",
+     "name": "Стандарт",
+     "file": "sample-car.25b00c41d5.glb",
+     "ar_files": {
+      "": "sample-car.8f816952f2.ar.glb"
+     },
+     "dimensions_mm": [
+      73.4429168701172,
+      28.822894982570798,
+      73.96229859143948
+     ],
+     "source_sha256": "01a60862de55cd4b9f3acfab0b0def86451800f9c42467fcd61052c16cb9838c",
+     "sha256": "25b00c41d539d5cdc15a84bcc1ccfc79a79f275d1b860d5ea1b60c4f51821bb8",
+     "bytes": 861124
+    }
+   ]
+  },
+  {
+   "id": "sample-lamp",
+   "name": "IridescenceLamp · лампа",
+   "mount": "floor",
+   "group": "Тестовые",
+   "image": "sample-lamp.af6f9ad4fd.webp",
+   "colors": [],
+   "variants": [
+    {
+     "id": "base",
+     "name": "Стандарт",
+     "file": "sample-lamp.02b9904617.glb",
+     "ar_files": {
+      "": "sample-lamp.b4c5af0dc1.ar.glb"
+     },
+     "dimensions_mm": [
+      297.31208086013794,
+      476.09758377075195,
+      301.87898874282837
+     ],
+     "source_sha256": "17cfdc79ec9e38fadb28db159734c5f9592ca423977b546e5057e350ba29ff13",
+     "sha256": "02b9904617e8b28f669977469c7e091e504740d423914790ebd64a7ef9257733",
+     "bytes": 201340
+    }
+   ]
+  },
+  {
+   "id": "test-sofa-02",
+   "name": "Тест · Диван 1,8 м",
+   "mount": "floor",
+   "group": "Тестовые",
+   "image": "test-sofa-02.0ab55e9ad7.webp",
+   "colors": [],
+   "variants": [
+    {
+     "id": "base",
+     "name": "Стандарт",
+     "file": "test-sofa-02.6ca1b5b6ba.glb",
+     "ar_files": {
+      "": "test-sofa-02.08cc731df4.ar.glb"
+     },
+     "dimensions_mm": [
+      1807.1673512458801,
+      709.4889283180237,
+      817.7513778209686
+     ],
+     "source_sha256": "cf16afd6838ffa57da348869abdd94692291c804c01140e4a8acbd1cc8ab4627",
+     "sha256": "6ca1b5b6ba8b4a44a43cb36ba600456e40a30b6afba79a508c9ec4697b32ee8d",
+     "bytes": 169024
+    }
+   ]
+  },
+  {
+   "id": "test-modern-arm-chair-01",
+   "name": "Тест · Кресло",
+   "mount": "floor",
+   "group": "Тестовые",
+   "image": "test-modern-arm-chair-01.fcd63b3e7f.webp",
+   "colors": [],
+   "variants": [
+    {
+     "id": "base",
+     "name": "Стандарт",
+     "file": "test-modern-arm-chair-01.6137a9156e.glb",
+     "ar_files": {
+      "": "test-modern-arm-chair-01.0726196ba1.ar.glb"
+     },
+     "dimensions_mm": [
+      820.3444182872772,
+      1022.8520567470696,
+      986.5616858005524
+     ],
+     "source_sha256": "00c9c114be07c2a2eb42017adc9b13fec8f866267089cfa4ad8c32d286139890",
+     "sha256": "6137a9156eec22a4960a791b7727dbc672815ad45cc7366b7ea6256e8395733c",
+     "bytes": 315264
+    }
+   ]
+  },
+  {
+   "id": "test-side-table-tall-01",
+   "name": "Тест · Высокий тонкий столик",
+   "mount": "floor",
+   "group": "Тестовые",
+   "image": "test-side-table-tall-01.5935547c45.webp",
+   "colors": [],
+   "variants": [
+    {
+     "id": "base",
+     "name": "Стандарт",
+     "file": "test-side-table-tall-01.612e8e55f5.glb",
+     "ar_files": {
+      "": "test-side-table-tall-01.61ef2ccfb5.ar.glb"
+     },
+     "dimensions_mm": [
+      383.98271799087524,
+      761.1514969321433,
+      383.98271799087524
+     ],
+     "source_sha256": "6b956ed00ce956a95ab55e6a44718a8ba3d54a9b9abf48c16e1c37735b6e923e",
+     "sha256": "612e8e55f5d6c3ebb857b61626e121377166467e5a7885dc19f24c614e779de8",
+     "bytes": 163324
+    }
+   ]
+  },
+  {
+   "id": "test-steel-frame-shelves-02",
+   "name": "Тест · Стеллаж 2,1 м на тонком каркасе",
+   "mount": "floor",
+   "group": "Тестовые",
+   "image": "test-steel-frame-shelves-02.190ec94683.webp",
+   "colors": [],
+   "variants": [
+    {
+     "id": "base",
+     "name": "Стандарт",
+     "file": "test-steel-frame-shelves-02.c732fd94c5.glb",
+     "ar_files": {
+      "": "test-steel-frame-shelves-02.d17c7d6846.ar.glb"
+     },
+     "dimensions_mm": [
+      593.3027565479279,
+      2141.6114285821095,
+      502.37810611724854
+     ],
+     "source_sha256": "c3a0c9674253e7eeb23d2e8e3129dedf359c6020d4c1ad72a0d003e7f0c9780e",
+     "sha256": "c732fd94c5dac27061433a3e4c57da0711af4f337d99515b48395e6ce1e65268",
+     "bytes": 188052
+    }
+   ]
+  },
+  {
+   "id": "test-coffee-table-round-01",
+   "name": "Тест · Круглый журнальный стол 1,3 м",
+   "mount": "floor",
+   "group": "Тестовые",
+   "image": "test-coffee-table-round-01.b4eb1d8740.webp",
+   "colors": [],
+   "variants": [
+    {
+     "id": "base",
+     "name": "Стандарт",
+     "file": "test-coffee-table-round-01.970493bb87.glb",
+     "ar_files": {
+      "": "test-coffee-table-round-01.ab77ab3f4f.ar.glb"
+     },
+     "dimensions_mm": [
+      1301.3009428977966,
+      491.0094439983368,
+      1301.3015985488892
+     ],
+     "source_sha256": "7732d3660310fc1b87a4d3efe9ef53cd5cf134d9b72519acb01c089bd898c4c2",
+     "sha256": "970493bb8738346c7ebd04fe1e1f6b0a29dc3b68c53a3592ec7582db826cd9b7",
+     "bytes": 192504
+    }
+   ]
+  },
+  {
+   "id": "test-plastic-monobloc-chair-01",
+   "name": "Тест · Пластиковый стул",
+   "mount": "floor",
+   "group": "Тестовые",
+   "image": "test-plastic-monobloc-chair-01.841893caa4.webp",
+   "colors": [],
+   "variants": [
+    {
+     "id": "base",
+     "name": "Стандарт",
+     "file": "test-plastic-monobloc-chair-01.ca73e7b213.glb",
+     "ar_files": {
+      "": "test-plastic-monobloc-chair-01.0f3e59d946.ar.glb"
+     },
+     "dimensions_mm": [
+      641.8611407279968,
+      879.8411972820759,
+      627.5919079780579
+     ],
+     "source_sha256": "d12d02d169fec1576ae23a4f84b66636015a99ad41c5049c08601895c0814c63",
+     "sha256": "ca73e7b2135267dbbd26e099bc5bb4dc54d29c3209ee8e471d4ac54487505d08",
+     "bytes": 269448
+    }
+   ]
+  },
+  {
+   "id": "test-stone-fire-pit",
+   "name": "Тест · Костровая чаша для улицы",
+   "mount": "floor",
+   "group": "Тестовые",
+   "image": "test-stone-fire-pit.e977181769.webp",
+   "colors": [],
+   "variants": [
+    {
+     "id": "base",
+     "name": "Стандарт",
+     "file": "test-stone-fire-pit.fa9bbac43d.glb",
+     "ar_files": {
+      "": "test-stone-fire-pit.127c6925d8.ar.glb"
+     },
+     "dimensions_mm": [
+      1448.4962224960327,
+      388.32607865333557,
+      1433.234453201294
+     ],
+     "source_sha256": "7c495a8156b7ce634013b999fce411b57ca823ec596e19d05ca3ccd7fa1be92e",
+     "sha256": "fa9bbac43d362ed72cb7b92e30cf8464cb6325ee3cb4ddec587829b490a49204",
+     "bytes": 480136
+    }
+   ]
+  },
+  {
+   "id": "test-ornate-mirror-01",
+   "name": "Тест · Зеркало на стену",
+   "mount": "wall",
+   "group": "Тестовые",
+   "image": "test-ornate-mirror-01.234f663f87.webp",
+   "colors": [],
+   "variants": [
+    {
+     "id": "base",
+     "name": "Стандарт",
+     "file": "test-ornate-mirror-01.801f372cc0.glb",
+     "ar_files": {
+      "": "test-ornate-mirror-01.7d95f1c7f7.ar.glb"
+     },
+     "dimensions_mm": [
+      486.4957332611084,
+      744.1554069519043,
+      25.958335027098656
+     ],
+     "source_sha256": "9e64b5a88b9e51ab3c3eaec4d2f52c59a123148415a1cde37be490737daa5309",
+     "sha256": "801f372cc09688d0e7e5f62d4f5da3206a3c8aee52179fbe273f490531233645",
+     "bytes": 212304
+    }
+   ]
+  },
+  {
+   "id": "bee-double",
+   "name": "FLOW BEE Double",
+   "mount": "wall",
+   "image": "bee-double.4eb1902ab3.webp",
+   "colors": [
+    {
+     "id": "black",
+     "name": "Чёрный",
+     "base_color": [
+      0.03,
+      0.032,
+      0.035
+     ],
+     "roughness": 0.42
+    },
+    {
+     "id": "white",
+     "name": "Белый",
+     "base_color": [
+      0.82,
+      0.82,
+      0.82
+     ],
+     "roughness": 0.42
+    }
+   ],
+   "variants": [
+    {
+     "id": "70-left",
+     "name": "70 см, левая",
+     "file": "bee-double.ee73248adf.glb",
+     "ar_files": {
+      "black": "bee-double.b69d7e91f9.ar.glb",
+      "white": "bee-double.3c96312ee6.ar.glb"
+     },
+     "dimensions_mm": [
+      700.0,
+      90.00000000000006,
+      92.0
+     ],
+     "source_sha256": "bc02b01aba44321fa3ec464255a0b61851c014990d3d8d83b0ef23cd4486baaf",
+     "sha256": "ee73248adf70c0d9aa1f5469af62a6e14571b0d355815b0cb756581418aa8348",
+     "bytes": 50612
+    },
+    {
+     "id": "70-right",
+     "name": "70 см, правая",
+     "file": "bee-double.0721e98feb.glb",
+     "ar_files": {
+      "black": "bee-double.857aa9b34d.ar.glb",
+      "white": "bee-double.ccad8dbc6b.ar.glb"
+     },
+     "dimensions_mm": [
+      700.0,
+      90.00000000000011,
+      92.00000000031844
+     ],
+     "source_sha256": "0a3664c2ea3808c451df955f169ef8dd027502153ccad3da9cea308bec5101be",
+     "sha256": "0721e98febf35d3124223cb2db7cf0e2641a6878eb6e8ca7e1a1946f24e188b8",
+     "bytes": 48916
+    },
+    {
+     "id": "100-left",
+     "name": "100 см, левая",
+     "file": "bee-double.4a25d70c92.glb",
+     "ar_files": {
+      "black": "bee-double.4d1110fbdf.ar.glb",
+      "white": "bee-double.ad41f59f4e.ar.glb"
+     },
+     "dimensions_mm": [
+      1000.0000000000002,
+      90.00000000000011,
+      92.0
+     ],
+     "source_sha256": "4b54ebc140fef5285126236d3a5e1256a6fc3ab6dd242d1d266a0b39ca6aed2b",
+     "sha256": "4a25d70c926f2d02f52c9b2849088cb6d3326f9badf33c1f7703b83836ec9988",
+     "bytes": 61056
+    },
+    {
+     "id": "100-right",
+     "name": "100 см, правая",
+     "file": "bee-double.e996526761.glb",
+     "ar_files": {
+      "black": "bee-double.71ab70cad2.ar.glb",
+      "white": "bee-double.a49b66c1e8.ar.glb"
+     },
+     "dimensions_mm": [
+      1000.0000000000001,
+      90.00000000000011,
+      92.0000000000208
+     ],
+     "source_sha256": "276a38ee1c4c9d5cc7283770bb6c87b954ea0a6fc365a24e51d6e3df2d78333f",
+     "sha256": "e996526761fb758b43222d79d77a4b99e6978a3cafba8ec4e2fd1214a05cdd71",
+     "bytes": 60168
+    }
+   ]
+  },
+  {
+   "id": "bee-duetto",
+   "name": "FLOW BEE Duetto",
+   "mount": "wall",
+   "image": "bee-duetto.760463a437.webp",
+   "colors": [
+    {
+     "id": "black",
+     "name": "Чёрный",
+     "base_color": [
+      0.03,
+      0.032,
+      0.035
+     ],
+     "roughness": 0.42
+    },
+    {
+     "id": "white",
+     "name": "Белый",
+     "base_color": [
+      0.82,
+      0.82,
+      0.82
+     ],
+     "roughness": 0.42
+    }
+   ],
+   "variants": [
+    {
+     "id": "left",
+     "name": "Левая",
+     "file": "bee-duetto.b87052e604.glb",
+     "ar_files": {
+      "black": "bee-duetto.fc197fc127.ar.glb",
+      "white": "bee-duetto.8c6c1c6e0f.ar.glb"
+     },
+     "dimensions_mm": [
+      259.9999999999999,
+      80.0,
+      129.0
+     ],
+     "source_sha256": "4fa8a6dc9e2744f018ccb810fdd4c12d765566f7af4654570e6b1a831885f6c2",
+     "sha256": "b87052e60431b56b3ad56f5890cbe69e0c691cfa116cf23f587c95d0753b2236",
+     "bytes": 43092
+    },
+    {
+     "id": "right",
+     "name": "Правая",
+     "file": "bee-duetto.13cd32fefa.glb",
+     "ar_files": {
+      "black": "bee-duetto.c70572a594.ar.glb",
+      "white": "bee-duetto.9ff1a87ae5.ar.glb"
+     },
+     "dimensions_mm": [
+      259.9999999999999,
+      80.0,
+      129.00000000008674
+     ],
+     "source_sha256": "4e389b19e0d8e8e805ac9f62248b9b140ede9af48699dcb3f35fefd952cf3383",
+     "sha256": "13cd32fefa866213ce283822bb6d7855dd21216d444704f5e1a4b011afdf4cfc",
+     "bytes": 43556
+    }
+   ]
+  },
+  {
+   "id": "bee-hook",
+   "name": "FLOW BEE Hook",
+   "mount": "wall",
+   "image": "bee-hook.63ff484792.webp",
+   "colors": [
+    {
+     "id": "black",
+     "name": "Чёрный",
+     "base_color": [
+      0.03,
+      0.032,
+      0.035
+     ],
+     "roughness": 0.42
+    },
+    {
+     "id": "white",
+     "name": "Белый",
+     "base_color": [
+      0.82,
+      0.82,
+      0.82
+     ],
+     "roughness": 0.42
+    }
+   ],
+   "variants": [
+    {
+     "id": "30",
+     "name": "30 см",
+     "file": "bee-hook.091b8f42df.glb",
+     "ar_files": {
+      "black": "bee-hook.8fd7ee31ba.ar.glb",
+      "white": "bee-hook.38f08d7859.ar.glb"
+     },
+     "dimensions_mm": [
+      300.0,
+      89.99999999999997,
+      92.0
+     ],
+     "source_sha256": "4143e91c8a011485fa83ab5c8b90ef8bb337e00dcbe54177db37a31b552eeb4a",
+     "sha256": "091b8f42df14a216d3cf5b0124d7045ccc16578f6190ed611f7ab285b4bd5999",
+     "bytes": 33496
+    },
+    {
+     "id": "40",
+     "name": "40 см",
+     "file": "bee-hook.a495387d89.glb",
+     "ar_files": {
+      "black": "bee-hook.8cb03eace3.ar.glb",
+      "white": "bee-hook.0b0744ebb7.ar.glb"
+     },
+     "dimensions_mm": [
+      400.0,
+      90.00000000000006,
+      92.0
+     ],
+     "source_sha256": "1de258834527e6f05abb7a9a6e2c389477a58e7caf0a87cc49a9485d2e75b89b",
+     "sha256": "a495387d8964e24ae49416434dffb8e86d60c780a07807c4324e0bbd826cfd9c",
+     "bytes": 40464
+    },
+    {
+     "id": "60",
+     "name": "60 см",
+     "file": "bee-hook.e8130031e3.glb",
+     "ar_files": {
+      "black": "bee-hook.ddd165c31e.ar.glb",
+      "white": "bee-hook.434bb4d716.ar.glb"
+     },
+     "dimensions_mm": [
+      600.0,
+      90.00000000000006,
+      92.0
+     ],
+     "source_sha256": "152cfc7aac4cdcd7475cc5784d75273c3c943477952060d98b71e4eb2d9d381c",
+     "sha256": "e8130031e3765dafe9e190198265804ff0dc7f7ab50452ce8ab85d8d0b2077c9",
+     "bytes": 52936
+    },
+    {
+     "id": "80",
+     "name": "80 см",
+     "file": "bee-hook.4aceac9338.glb",
+     "ar_files": {
+      "black": "bee-hook.a9b9e7bcaa.ar.glb",
+      "white": "bee-hook.d5e00d060d.ar.glb"
+     },
+     "dimensions_mm": [
+      800.0,
+      90.00000000000007,
+      92.0
+     ],
+     "source_sha256": "68ef3bcdbd618de4458d5b6be4742b29294ad503695263a78c234199c1ecb498",
+     "sha256": "4aceac933836e3410f6a245cf5bc870771725a0b579330a118ef16db23e5e4fa",
+     "bytes": 65056
+    }
+   ]
+  },
+  {
+   "id": "bee-mono",
+   "name": "FLOW BEE Mono",
+   "mount": "wall",
+   "image": "bee-mono.e68255faa3.webp",
+   "colors": [
+    {
+     "id": "black",
+     "name": "Чёрный",
+     "base_color": [
+      0.03,
+      0.032,
+      0.035
+     ],
+     "roughness": 0.42
+    },
+    {
+     "id": "white",
+     "name": "Белый",
+     "base_color": [
+      0.82,
+      0.82,
+      0.82
+     ],
+     "roughness": 0.42
+    }
+   ],
+   "variants": [
+    {
+     "id": "20",
+     "name": "20 см",
+     "file": "bee-mono.2cab3965f2.glb",
+     "ar_files": {
+      "black": "bee-mono.2da4a2c530.ar.glb",
+      "white": "bee-mono.10fb37e459.ar.glb"
+     },
+     "dimensions_mm": [
+      200.0,
+      90.00000000000001,
+      92.00000000000001
+     ],
+     "source_sha256": "574da621ca0cb3a548dc76dc4a47f6db13d5cb86500fdaca6fd97db016f62de4",
+     "sha256": "2cab3965f2c07a736e50ebaac1d6872a776c2e81af51a920d283532f796836cb",
+     "bytes": 28912
+    },
+    {
+     "id": "30",
+     "name": "30 см",
+     "file": "bee-mono.d0858a01eb.glb",
+     "ar_files": {
+      "black": "bee-mono.d9e0592496.ar.glb",
+      "white": "bee-mono.829190af51.ar.glb"
+     },
+     "dimensions_mm": [
+      299.99999999999994,
+      90.00000000000003,
+      92.00000000000003
+     ],
+     "source_sha256": "dc24ee33661ce1562cfd9498b65226590f9fc6ea36c1f0c646a492bd8def5ce5",
+     "sha256": "d0858a01ebf4c43d3a7075495443ad95331bbaf4cb2543ff7b1f7605993bc046",
+     "bytes": 31876
+    },
+    {
+     "id": "40",
+     "name": "40 см",
+     "file": "bee-mono.e7d211be5b.glb",
+     "ar_files": {
+      "black": "bee-mono.8a32099b5a.ar.glb",
+      "white": "bee-mono.1f34c0db01.ar.glb"
+     },
+     "dimensions_mm": [
+      400.0,
+      90.0,
+      92.00000000000003
+     ],
+     "source_sha256": "4da024e9fa46abcbc73695be9e50e2a051eec448a16e61d18a407b89a3ab20fc",
+     "sha256": "e7d211be5bf4900bb794fb6741460947cbe5cf240db6a69a17ed13a1f58fa7b6",
+     "bytes": 35004
+    },
+    {
+     "id": "50",
+     "name": "50 см",
+     "file": "bee-mono.b721fa9321.glb",
+     "ar_files": {
+      "black": "bee-mono.f949fb5bda.ar.glb",
+      "white": "bee-mono.5a4cec8ac4.ar.glb"
+     },
+     "dimensions_mm": [
+      500.00000000000006,
+      90.0,
+      92.0
+     ],
+     "source_sha256": "7db35d9c6eb7f40a7fe764776f07ae64a03a7e81c08a25c27a3c4642dbb55086",
+     "sha256": "b721fa9321689ab3578ce185722884d4cd86621e3c2202557e32d98ad12d7e2f",
+     "bytes": 37628
+    },
+    {
+     "id": "60",
+     "name": "60 см",
+     "file": "bee-mono.6adab1ebb9.glb",
+     "ar_files": {
+      "black": "bee-mono.408d0fc816.ar.glb",
+      "white": "bee-mono.d9b23fc16d.ar.glb"
+     },
+     "dimensions_mm": [
+      600.0,
+      90.0,
+      92.0
+     ],
+     "source_sha256": "c84bfdcf69b75e83c44c95d9ac6b3e821f80704edf80b2aa949abaa35c01ebce",
+     "sha256": "6adab1ebb9be33a1e59a96467c4d47d9756cb5ddf878a0820b89bf9d7c262558",
+     "bytes": 44372
+    },
+    {
+     "id": "70",
+     "name": "70 см",
+     "file": "bee-mono.5a04d6b581.glb",
+     "ar_files": {
+      "black": "bee-mono.da72a75c9e.ar.glb",
+      "white": "bee-mono.d23ec909f9.ar.glb"
+     },
+     "dimensions_mm": [
+      700.0,
+      90.00000000000006,
+      92.00000000000006
+     ],
+     "source_sha256": "f017775feb5f2fd5be86084f2a6f06ed64bcb6c95b0b42d980a46fbe3b18f159",
+     "sha256": "5a04d6b581f7be148c4bb728c49eb0aa141210a70dad5265d3010d7647d5ed1a",
+     "bytes": 47764
+    },
+    {
+     "id": "80",
+     "name": "80 см",
+     "file": "bee-mono.1a76e79f63.glb",
+     "ar_files": {
+      "black": "bee-mono.20da981218.ar.glb",
+      "white": "bee-mono.7e97096145.ar.glb"
+     },
+     "dimensions_mm": [
+      800.0,
+      90.00000000000017,
+      92.0
+     ],
+     "source_sha256": "f83811730e21ac5050e8a164c1488adeda8b380d17a1ed52d8d2a1607f5b8b7b",
+     "sha256": "1a76e79f6350e98267c44227f7c82844a5ef6df92efe60c796042c76ccf5c432",
+     "bytes": 53372
+    },
+    {
+     "id": "90",
+     "name": "90 см",
+     "file": "bee-mono.0cd23ec8d4.glb",
+     "ar_files": {
+      "black": "bee-mono.3c4d73f1b2.ar.glb",
+      "white": "bee-mono.4cea6ffb92.ar.glb"
+     },
+     "dimensions_mm": [
+      900.0,
+      90.00000000000028,
+      92.00000000000006
+     ],
+     "source_sha256": "1d053a91b8360c01fe91eb52c7c7019aead4fe6383b62c609d8d2f618a159c0e",
+     "sha256": "0cd23ec8d445b5cd14517a9dc4e0f673b8338979bfd813e311d51102af0eca7d",
+     "bytes": 60356
+    },
+    {
+     "id": "100",
+     "name": "100 см",
+     "file": "bee-mono.0d48bd72fc.glb",
+     "ar_files": {
+      "black": "bee-mono.264c1e3635.ar.glb",
+      "white": "bee-mono.08655538d4.ar.glb"
+     },
+     "dimensions_mm": [
+      999.9999999999999,
+      90.00000000000034,
+      92.0
+     ],
+     "source_sha256": "8fc43691f4d80eb4f8edfa86b75d3b6979afa5aca47db90463a2bd35e2618f36",
+     "sha256": "0d48bd72fc9ed77fa25d2741288e01f32c3d4e2dd2af646a4811dfd97d871494",
+     "bytes": 60288
+    },
+    {
+     "id": "120",
+     "name": "120 см",
+     "file": "bee-mono.4e7ae49619.glb",
+     "ar_files": {
+      "black": "bee-mono.9f515f8d4e.ar.glb",
+      "white": "bee-mono.126d6957cc.ar.glb"
+     },
+     "dimensions_mm": [
+      1200.0000000000002,
+      90.00000000000034,
+      92.0
+     ],
+     "source_sha256": "fdd4eca5a18bb09627c8eab5182e423af4ec7bf3e664c8ac50970d510cdaf16a",
+     "sha256": "4e7ae496191a5ab537a650372b448daa8d713903ab7324242f881f9c0ac00498",
+     "bytes": 69936
+    },
+    {
+     "id": "150",
+     "name": "150 см",
+     "file": "bee-mono.6bf28557b6.glb",
+     "ar_files": {
+      "black": "bee-mono.0897311bec.ar.glb",
+      "white": "bee-mono.a484e657ec.ar.glb"
+     },
+     "dimensions_mm": [
+      1500.0000000000005,
+      90.00000000000023,
+      92.0
+     ],
+     "source_sha256": "bf022fa1fea0b8978886e8f837a7411aaad8e342e1ddbec0c57a35409d6a7b0b",
+     "sha256": "6bf28557b6b71906aec84f3cd7b9442385b3a3338172672877150d10c16bfb1a",
+     "bytes": 83284
+    },
+    {
+     "id": "180",
+     "name": "180 см",
+     "file": "bee-mono.179b1f7d07.glb",
+     "ar_files": {
+      "black": "bee-mono.70bcaf59d1.ar.glb",
+      "white": "bee-mono.0e82e9bd62.ar.glb"
+     },
+     "dimensions_mm": [
+      1800.0000000000002,
+      90.00000000000045,
+      92.0
+     ],
+     "source_sha256": "e2f66c8e78dd7602983b076a94955a85137004dc609201ddd5fb42dbd5d11569",
+     "sha256": "179b1f7d0760e51247d620e862c0d7969f0c72c66b0dd2d6b5cce298b8f2fbb6",
+     "bytes": 91484
+    }
+   ]
+  },
+  {
+   "id": "bee-patron",
+   "name": "FLOW BEE Patron",
+   "mount": "wall",
+   "image": "bee-patron.8f29f9cbf8.webp",
+   "colors": [
+    {
+     "id": "black",
+     "name": "Чёрный",
+     "base_color": [
+      0.03,
+      0.032,
+      0.035
+     ],
+     "roughness": 0.42
+    },
+    {
+     "id": "white",
+     "name": "Белый",
+     "base_color": [
+      0.82,
+      0.82,
+      0.82
+     ],
+     "roughness": 0.42
+    }
+   ],
+   "variants": [
+    {
+     "id": "50-left",
+     "name": "50 см, левая",
+     "file": "bee-patron.57268157d8.glb",
+     "ar_files": {
+      "black": "bee-patron.c44820a651.ar.glb",
+      "white": "bee-patron.71666f7e7f.ar.glb"
+     },
+     "dimensions_mm": [
+      500.0,
+      90.0,
+      93.5
+     ],
+     "source_sha256": "dc335c87aacbfbdb1e98abce522df5668936717526a89852cf6c987b96cde2ec",
+     "sha256": "57268157d87a59ca047a93342bc71d8c47e20fb41131fa13cb2562d5443a56ea",
+     "bytes": 43568
+    },
+    {
+     "id": "50-right",
+     "name": "50 см, правая",
+     "file": "bee-patron.231e147ce5.glb",
+     "ar_files": {
+      "black": "bee-patron.f6dba10331.ar.glb",
+      "white": "bee-patron.4a17762fbe.ar.glb"
+     },
+     "dimensions_mm": [
+      500.0,
+      90.0,
+      92.00000000000034
+     ],
+     "source_sha256": "06616d52ce33a1f649837b07f6dea5d803b995741598031454fbe827ad5e9eef",
+     "sha256": "231e147ce520d3752082bb8972b94c31782ea4ef691fbb37a60c2d331386d071",
+     "bytes": 42400
+    },
+    {
+     "id": "70-left",
+     "name": "70 см, левая",
+     "file": "bee-patron.4d048d73ce.glb",
+     "ar_files": {
+      "black": "bee-patron.2ae525504c.ar.glb",
+      "white": "bee-patron.4000ce60e7.ar.glb"
+     },
+     "dimensions_mm": [
+      700.0,
+      90.00000000000006,
+      92.00000000032105
+     ],
+     "source_sha256": "e0742042111cb903887e011f453a1e68fa284232d95ed8f6df0d3af1206c29bb",
+     "sha256": "4d048d73cedcbe0ec796db71023293500cc44302661e6ddb3000169b91410430",
+     "bytes": 53156
+    },
+    {
+     "id": "70-right",
+     "name": "70 см, правая",
+     "file": "bee-patron.7aebdb95ed.glb",
+     "ar_files": {
+      "black": "bee-patron.fd42441d86.ar.glb",
+      "white": "bee-patron.958f5eda1e.ar.glb"
+     },
+     "dimensions_mm": [
+      700.0,
+      90.00000000000006,
+      92.00000000000006
+     ],
+     "source_sha256": "1a5c5d919d689301da85a07bb160ab0ec790a3a13c3e6c287b0c7502253ec74a",
+     "sha256": "7aebdb95ed57ebb2128fdb7f7b20004bf5e34c599d4966701d93ab68a78f971b",
+     "bytes": 52116
+    },
+    {
+     "id": "90-left",
+     "name": "90 см, левая",
+     "file": "bee-patron.4e6bc626c0.glb",
+     "ar_files": {
+      "black": "bee-patron.ddf6b090c5.ar.glb",
+      "white": "bee-patron.df3d2ab90f.ar.glb"
+     },
+     "dimensions_mm": [
+      900.0,
+      90.0,
+      92.0
+     ],
+     "source_sha256": "eac418ed7c6438612144e6d3f0e4009edc0f466804c4d87f618441147217a495",
+     "sha256": "4e6bc626c0c517ed8b2281500e993186dce312de8333c5dd37aad193247df4b1",
+     "bytes": 63540
+    },
+    {
+     "id": "90-right",
+     "name": "90 см, правая",
+     "file": "bee-patron.bd298b56f0.glb",
+     "ar_files": {
+      "black": "bee-patron.a38bf5574a.ar.glb",
+      "white": "bee-patron.08ec870a22.ar.glb"
+     },
+     "dimensions_mm": [
+      900.0,
+      90.0,
+      92.0
+     ],
+     "source_sha256": "3eda5b2d0233819bc8dc35b0d38f9201bd4ec1f983c9299c3b0ec470e29c6230",
+     "sha256": "bd298b56f0085c1a2ba65f63d1ecbffe287127851d52710504ce8d346fc10cd5",
+     "bytes": 63508
+    },
+    {
+     "id": "120-left",
+     "name": "120 см, левая",
+     "file": "bee-patron.c857959a5b.glb",
+     "ar_files": {
+      "black": "bee-patron.69bfc3628f.ar.glb",
+      "white": "bee-patron.4fb214f75e.ar.glb"
+     },
+     "dimensions_mm": [
+      1200.0,
+      90.00000000000011,
+      92.0
+     ],
+     "source_sha256": "1861c67b9b19d3bec177c571d50bc35f3ca29e34a0b3b42d87d04bc0e348847a",
+     "sha256": "c857959a5baffbf4c77f56e8e0d5893245354de2da51084d66623342cb199b01",
+     "bytes": 73224
+    },
+    {
+     "id": "120-right",
+     "name": "120 см, правая",
+     "file": "bee-patron.1879552cad.glb",
+     "ar_files": {
+      "black": "bee-patron.39fb3d05c5.ar.glb",
+      "white": "bee-patron.473eb79b3a.ar.glb"
+     },
+     "dimensions_mm": [
+      1200.0,
+      90.00000000000011,
+      92.0
+     ],
+     "source_sha256": "100b5ec2c9d29e54db418102d124949d409f1250ab55b0eb3fd9fa77b2b5950c",
+     "sha256": "1879552cad7b0cb1ae82471fd0fc84bdcdde6be03945b52c88773643317226aa",
+     "bytes": 73144
+    },
+    {
+     "id": "150-left",
+     "name": "150 см, левая",
+     "file": "bee-patron.6325cd03d1.glb",
+     "ar_files": {
+      "black": "bee-patron.8501e80aae.ar.glb",
+      "white": "bee-patron.4ed14e77e7.ar.glb"
+     },
+     "dimensions_mm": [
+      1500.0000000000005,
+      90.00000000000011,
+      91.99999999999989
+     ],
+     "source_sha256": "9df81807daefac4eb25e31368829f9f4d50c578b3ec2bb90a2ef3dcb711b9cb0",
+     "sha256": "6325cd03d1a196c60e65d3c808716efc439587273fd20163dc2634a42912563d",
+     "bytes": 85032
+    },
+    {
+     "id": "150-right",
+     "name": "150 см, правая",
+     "file": "bee-patron.ce6eb21463.glb",
+     "ar_files": {
+      "black": "bee-patron.b9c377e758.ar.glb",
+      "white": "bee-patron.92055cb22a.ar.glb"
+     },
+     "dimensions_mm": [
+      1500.0000000000002,
+      90.00000000000011,
+      92.0
+     ],
+     "source_sha256": "659d50d42fa3838a06ba13dea7f6b9314ba5f9e49910c33c5f189401fd21e30a",
+     "sha256": "ce6eb2146372ac52d1c5107951fe1dc0e13305136f40f331875a29527a781c25",
+     "bytes": 85676
+    },
+    {
+     "id": "180-left",
+     "name": "180 см, левая",
+     "file": "bee-patron.6522fe4489.glb",
+     "ar_files": {
+      "black": "bee-patron.99737f467a.ar.glb",
+      "white": "bee-patron.221058ae13.ar.glb"
+     },
+     "dimensions_mm": [
+      1800.0000000000002,
+      89.99999999999989,
+      92.00000000000023
+     ],
+     "source_sha256": "663d78efdbe8fc0e4a6062d4b27cd5f414bdfb7451ee152dcccaae11fce9ddf4",
+     "sha256": "6522fe4489988d0f5873041bb5a2ba632456b8dc2b74698198d1d2eab9ece279",
+     "bytes": 96524
+    },
+    {
+     "id": "180-right",
+     "name": "180 см, правая",
+     "file": "bee-patron.a3f1f11acf.glb",
+     "ar_files": {
+      "black": "bee-patron.a272a1a070.ar.glb",
+      "white": "bee-patron.60bfb8ec5b.ar.glb"
+     },
+     "dimensions_mm": [
+      1800.0000000000002,
+      90.0,
+      92.00000000000023
+     ],
+     "source_sha256": "13ae503ac6c576f2e4d3c7d704b988e4916b9cc5e509535828d6b1d02771e404",
+     "sha256": "a3f1f11acfd5d1ed325f63958e0debdc6864ff3f55ff48537cf169ba7c28ad6a",
+     "bytes": 97436
+    }
+   ]
+  },
+  {
+   "id": "bee-prima",
+   "name": "FLOW BEE Prima",
+   "mount": "wall",
+   "image": "bee-prima.24fdd0a94e.webp",
+   "colors": [
+    {
+     "id": "black",
+     "name": "Чёрный",
+     "base_color": [
+      0.03,
+      0.032,
+      0.035
+     ],
+     "roughness": 0.42
+    },
+    {
+     "id": "white",
+     "name": "Белый",
+     "base_color": [
+      0.82,
+      0.82,
+      0.82
+     ],
+     "roughness": 0.42
+    }
+   ],
+   "variants": [
+    {
+     "id": "без-крючков",
+     "name": "Без крючков",
+     "file": "bee-prima.63f38e0354.glb",
+     "ar_files": {
+      "black": "bee-prima.e330a0dfe4.ar.glb",
+      "white": "bee-prima.1c5bd0d27d.ar.glb"
+     },
+     "dimensions_mm": [
+      149.9999999999999,
+      1000.0,
+      96.0
+     ],
+     "source_sha256": "9090729224df1549ce24a15ba8d6200afb2235d41d7af0b9ebf9056de5b7c5ab",
+     "sha256": "63f38e0354f084729e1997032f208d760cdae782391ff550388a370767c4fd0a",
+     "bytes": 94848
+    },
+    {
+     "id": "с-крючками",
+     "name": "С крючками",
+     "file": "bee-prima.5e311cfa00.glb",
+     "ar_files": {
+      "black": "bee-prima.34a2d18e8a.ar.glb",
+      "white": "bee-prima.3b85214e39.ar.glb"
+     },
+     "dimensions_mm": [
+      149.99999999999994,
+      1000.0,
+      96.00000000000011
+     ],
+     "source_sha256": "bc7284ce2053b2c2fa7e17da8d7829bfaf8466ebfdc5c53dde6818740afb0faf",
+     "sha256": "5e311cfa004808627c56ad30b44c392302e5e44f24898399475cc091dc9ff183",
+     "bytes": 102936
+    }
+   ]
+  },
+  {
+   "id": "radius-mono",
+   "name": "FLOW RADIUS Mono",
+   "mount": "wall",
+   "image": "radius-mono.24d656dfe3.webp",
+   "colors": [
+    {
+     "id": "black",
+     "name": "Чёрный",
+     "base_color": [
+      0.03,
+      0.032,
+      0.035
+     ],
+     "roughness": 0.42
+    },
+    {
+     "id": "white",
+     "name": "Белый",
+     "base_color": [
+      0.82,
+      0.82,
+      0.82
+     ],
+     "roughness": 0.42
+    }
+   ],
+   "variants": [
+    {
+     "id": "20",
+     "name": "20 см",
+     "file": "radius-mono.82495cd820.glb",
+     "ar_files": {
+      "black": "radius-mono.a8f460c904.ar.glb",
+      "white": "radius-mono.a04a5aceb7.ar.glb"
+     },
+     "dimensions_mm": [
+      200.0,
+      90.0,
+      92.00000000000432
+     ],
+     "source_sha256": "0118c83495f5b9a38f5348cb9aed93ec8bd97893e1ae8c64c04d08b866ab5a02",
+     "sha256": "82495cd820299050382959458c8f7abd3a80d19849d4bbc7057d9e8d9fc5a402",
+     "bytes": 6872
+    },
+    {
+     "id": "30",
+     "name": "30 см",
+     "file": "radius-mono.51569b196d.glb",
+     "ar_files": {
+      "black": "radius-mono.2f96a5e4a4.ar.glb",
+      "white": "radius-mono.e2ea93b1ce.ar.glb"
+     },
+     "dimensions_mm": [
+      300.00000000000006,
+      90.00000000000003,
+      92.0
+     ],
+     "source_sha256": "e4e33d4c7c2604dbf8e6293ab0ed9a1a3e4ea3422cd0795bb5733e65535f6756",
+     "sha256": "51569b196dddc7758584d70d374c8fbf0933a035a7cdf5e1342d25b81882af25",
+     "bytes": 6664
+    },
+    {
+     "id": "40",
+     "name": "40 см",
+     "file": "radius-mono.e90620d2b8.glb",
+     "ar_files": {
+      "black": "radius-mono.3e0c22c6a4.ar.glb",
+      "white": "radius-mono.a253c11b7f.ar.glb"
+     },
+     "dimensions_mm": [
+      400.0,
+      90.00000000000009,
+      92.0
+     ],
+     "source_sha256": "22217e4815cd910782b1798adb630bb3f51fd66d95993255818e9f01ebd1a139",
+     "sha256": "e90620d2b87e400e6d2fdfa672cb6a87372eae76c40e471fa27477312500fd64",
+     "bytes": 6300
+    },
+    {
+     "id": "60",
+     "name": "60 см",
+     "file": "radius-mono.133fdb5856.glb",
+     "ar_files": {
+      "black": "radius-mono.5bedb3ab2c.ar.glb",
+      "white": "radius-mono.770cd75bd7.ar.glb"
+     },
+     "dimensions_mm": [
+      600.0,
+      90.00000000000011,
+      92.0
+     ],
+     "source_sha256": "f9bb997158e39ba72ff241127b542318bf5779eaa43dd6e83ade3a6f9486a78a",
+     "sha256": "133fdb5856024b9327e399f4a22827675d5bad8c50d742b28a42d785ec817c7b",
+     "bytes": 6368
+    },
+    {
+     "id": "70",
+     "name": "70 см",
+     "file": "radius-mono.4693240ad0.glb",
+     "ar_files": {
+      "black": "radius-mono.c10a48ba25.ar.glb",
+      "white": "radius-mono.17c8e35b8f.ar.glb"
+     },
+     "dimensions_mm": [
+      700.0,
+      90.00000000000011,
+      92.00000000000006
+     ],
+     "source_sha256": "cf92d71c82c84f0f95f420341f9fb2f5f2c68d11023af4f0acc1c652ceec4bbf",
+     "sha256": "4693240ad016931ff99b98983f6edfa911b7cae39f5d2e5d268d7979d63ad04a",
+     "bytes": 6204
+    },
+    {
+     "id": "80",
+     "name": "80 см",
+     "file": "radius-mono.87a4a448ff.glb",
+     "ar_files": {
+      "black": "radius-mono.dbbbe91a60.ar.glb",
+      "white": "radius-mono.c2554e9fb4.ar.glb"
+     },
+     "dimensions_mm": [
+      800.0,
+      90.00000000000023,
+      92.0
+     ],
+     "source_sha256": "0cc2e0c81e553c82e3c4c195eb24bea7859b963eeee6e52f243db8e6bbb4ea44",
+     "sha256": "87a4a448ff5e6963b115090d870d6d179b01fe9ff3e6eecc5c872e32d68c6b14",
+     "bytes": 6984
+    },
+    {
+     "id": "100",
+     "name": "100 см",
+     "file": "radius-mono.1b1157009c.glb",
+     "ar_files": {
+      "black": "radius-mono.463d763116.ar.glb",
+      "white": "radius-mono.52898e6d17.ar.glb"
+     },
+     "dimensions_mm": [
+      999.9999999999999,
+      90.00000000000034,
+      92.64508143121645
+     ],
+     "source_sha256": "b98bf0a502349e6c42870a080a7ae6a55e6775061bb53290906b9cd86e2680cd",
+     "sha256": "1b1157009c414c7aa8e7c53fe340c6fafaa2a45f488c2c5a3dfef712cee2b54a",
+     "bytes": 7220
+    },
+    {
+     "id": "120",
+     "name": "120 см",
+     "file": "radius-mono.5ed69b4c4e.glb",
+     "ar_files": {
+      "black": "radius-mono.dac0d0b009.ar.glb",
+      "white": "radius-mono.2aba1bed86.ar.glb"
+     },
+     "dimensions_mm": [
+      1200.0,
+      90.00000000000034,
+      92.0
+     ],
+     "source_sha256": "c194a32a48add29b129619f70f0c48da428880efa385f0a71f62d88d8312f336",
+     "sha256": "5ed69b4c4e28214b60ff8d9f76bb53b7748dab180ad51e80d183a32aeb2b0e08",
+     "bytes": 7460
+    },
+    {
+     "id": "150",
+     "name": "150 см",
+     "file": "radius-mono.b884be101a.glb",
+     "ar_files": {
+      "black": "radius-mono.062aa88414.ar.glb",
+      "white": "radius-mono.d071294a07.ar.glb"
+     },
+     "dimensions_mm": [
+      1500.0000000000002,
+      90.00000000000023,
+      93.0
+     ],
+     "source_sha256": "d816c82ba38460ef96e21782fad99a2e32e351e788eed0de3d41648009d73c19",
+     "sha256": "b884be101ae8d1c26ffd543bc5bbe7e825dfc9b95e60a27e2cadc13986c92dc9",
+     "bytes": 7556
+    }
+   ]
+  },
+  {
+   "id": "round-double",
+   "name": "FLOW ROUND Double",
+   "mount": "wall",
+   "image": "round-double.d380d3e1e8.webp",
+   "colors": [
+    {
+     "id": "black",
+     "name": "Чёрный",
+     "base_color": [
+      0.03,
+      0.032,
+      0.035
+     ],
+     "roughness": 0.42
+    },
+    {
+     "id": "white",
+     "name": "Белый",
+     "base_color": [
+      0.82,
+      0.82,
+      0.82
+     ],
+     "roughness": 0.42
+    }
+   ],
+   "variants": [
+    {
+     "id": "70-left",
+     "name": "70 см, левая",
+     "file": "round-double.26957cc689.glb",
+     "ar_files": {
+      "black": "round-double.3a124791f9.ar.glb",
+      "white": "round-double.69a16f9fd4.ar.glb"
+     },
+     "dimensions_mm": [
+      700.0,
+      90.00000000000011,
+      92.00000000000006
+     ],
+     "source_sha256": "b9647cb82db77af7773ac820767cf967d3c8491a67bef30ab3fc9e309aa1c676",
+     "sha256": "26957cc689af2e05f928cda1e06d9886c1e34e741e416b4d23d08503cfa20f84",
+     "bytes": 8448
+    },
+    {
+     "id": "70-right",
+     "name": "70 см, правая",
+     "file": "round-double.427b6ab85f.glb",
+     "ar_files": {
+      "black": "round-double.c428bccbd4.ar.glb",
+      "white": "round-double.c9882d1be1.ar.glb"
+     },
+     "dimensions_mm": [
+      700.0,
+      90.00000000000017,
+      92.00000000000006
+     ],
+     "source_sha256": "0250ed9a7033d90de0b011126f2b5db0052348a2e668a164d32fb19902a66c4c",
+     "sha256": "427b6ab85f7fda5fa95fbf9ece90e0a406cbed2c432909b02f37028748e7665c",
+     "bytes": 6872
+    },
+    {
+     "id": "100-left",
+     "name": "100 см, левая",
+     "file": "round-double.72f5f401ce.glb",
+     "ar_files": {
+      "black": "round-double.440650be64.ar.glb",
+      "white": "round-double.56c6e88fd1.ar.glb"
+     },
+     "dimensions_mm": [
+      1000.0000000000002,
+      90.00000000000017,
+      92.0
+     ],
+     "source_sha256": "1dcdf8e70fa382e24391c4a626171f9b84e70ee44dbfaf57ec80f545e77fb91f",
+     "sha256": "72f5f401ce462760e3f94e8878cda5404e0154255b3d7bc79a03fd35bdfdd6b0",
+     "bytes": 7684
+    },
+    {
+     "id": "100-right",
+     "name": "100 см, правая",
+     "file": "round-double.fe9c8f3fb9.glb",
+     "ar_files": {
+      "black": "round-double.4ce0a3fb44.ar.glb",
+      "white": "round-double.530cabffdb.ar.glb"
+     },
+     "dimensions_mm": [
+      1000.0000000000002,
+      90.00000000000017,
+      92.0
+     ],
+     "source_sha256": "e312f3227496ebfdbdce4f107e8ef9a105cda97a3e2f09debbee18561fbce3b6",
+     "sha256": "fe9c8f3fb95e1369d4b42c0b219e6329219418d9bf688b24edca58404825f6e9",
+     "bytes": 7784
+    }
+   ]
+  },
+  {
+   "id": "round-duetto",
+   "name": "FLOW ROUND Duetto",
+   "mount": "wall",
+   "image": "round-duetto.f6b18fbf73.webp",
+   "colors": [
+    {
+     "id": "black",
+     "name": "Чёрный",
+     "base_color": [
+      0.03,
+      0.032,
+      0.035
+     ],
+     "roughness": 0.42
+    },
+    {
+     "id": "white",
+     "name": "Белый",
+     "base_color": [
+      0.82,
+      0.82,
+      0.82
+     ],
+     "roughness": 0.42
+    }
+   ],
+   "variants": [
+    {
+     "id": "left",
+     "name": "Левая",
+     "file": "round-duetto.2762a3e433.glb",
+     "ar_files": {
+      "black": "round-duetto.dd4062db08.ar.glb",
+      "white": "round-duetto.b17e8b3405.ar.glb"
+     },
+     "dimensions_mm": [
+      259.9999999999999,
+      80.0,
+      129.00000000000009
+     ],
+     "source_sha256": "72badd5848bbe0f755496b53022d4cab949f3d3008371db8371d8e4f607ad5c3",
+     "sha256": "2762a3e4334b75c57c9dd568e336655d1bb5e52ee1e8076e2c96099ff7ffeed4",
+     "bytes": 9692
+    },
+    {
+     "id": "right",
+     "name": "Правая",
+     "file": "round-duetto.48f02ea50b.glb",
+     "ar_files": {
+      "black": "round-duetto.5f9f5c7fa0.ar.glb",
+      "white": "round-duetto.789f18f596.ar.glb"
+     },
+     "dimensions_mm": [
+      259.9999999999999,
+      80.0,
+      129.00000000000006
+     ],
+     "source_sha256": "09a02b9932777720599c797134c1796c502dbf59721340943702cfd0a5c038f6",
+     "sha256": "48f02ea50b17aa4b09b42f543099c22d65e8094dfe890ebff6ba9591c17d76e8",
+     "bytes": 8968
+    }
+   ]
+  },
+  {
+   "id": "round-hook",
+   "name": "FLOW ROUND Hook",
+   "mount": "wall",
+   "image": "round-hook.3eac8d685f.webp",
+   "colors": [
+    {
+     "id": "black",
+     "name": "Чёрный",
+     "base_color": [
+      0.03,
+      0.032,
+      0.035
+     ],
+     "roughness": 0.42
+    },
+    {
+     "id": "white",
+     "name": "Белый",
+     "base_color": [
+      0.82,
+      0.82,
+      0.82
+     ],
+     "roughness": 0.42
+    }
+   ],
+   "variants": [
+    {
+     "id": "30",
+     "name": "30 см",
+     "file": "round-hook.94be6c0fc3.glb",
+     "ar_files": {
+      "black": "round-hook.2b4d464085.ar.glb",
+      "white": "round-hook.36ed093297.ar.glb"
+     },
+     "dimensions_mm": [
+      299.99999999999994,
+      89.99999999999997,
+      92.0
+     ],
+     "source_sha256": "04a4cce911ec8470125ebdd741b3c1ed77d5d57d8581bdfba2579c65de3b2649",
+     "sha256": "94be6c0fc3ff688b8f2f87735b193f6c35674784f71f3f7d014a38349e56ee47",
+     "bytes": 13820
+    },
+    {
+     "id": "40",
+     "name": "40 см",
+     "file": "round-hook.74c8e8de34.glb",
+     "ar_files": {
+      "black": "round-hook.ced8acb793.ar.glb",
+      "white": "round-hook.9be8ce8f88.ar.glb"
+     },
+     "dimensions_mm": [
+      400.00000000000006,
+      90.00000000000009,
+      92.0
+     ],
+     "source_sha256": "3fa5413b9dbdefa84a2c7eb61c5137aa70f8f32a5a30fd1f1a35fe00e86c8ae4",
+     "sha256": "74c8e8de34659eee612d17250d5fb82f99284f99eef85ca5af2c88024dbf0020",
+     "bytes": 15916
+    },
+    {
+     "id": "60",
+     "name": "60 см",
+     "file": "round-hook.eb8533e931.glb",
+     "ar_files": {
+      "black": "round-hook.1dda2a7f74.ar.glb",
+      "white": "round-hook.e14ae745f7.ar.glb"
+     },
+     "dimensions_mm": [
+      600.0,
+      90.00000000000017,
+      92.0
+     ],
+     "source_sha256": "1f78551199fa76b6ceee366cfcb8455eac1b48ff539adef602a30f5f225c3778",
+     "sha256": "eb8533e9313d8379dbaded631ca2bf556a5e22403007c7cd4e06ff4261652d50",
+     "bytes": 19036
+    },
+    {
+     "id": "80",
+     "name": "80 см",
+     "file": "round-hook.53fafb27d6.glb",
+     "ar_files": {
+      "black": "round-hook.8e23b56750.ar.glb",
+      "white": "round-hook.08cf9b1bf3.ar.glb"
+     },
+     "dimensions_mm": [
+      800.0000000000001,
+      90.00000000000011,
+      92.00000000000023
+     ],
+     "source_sha256": "1ac29bdf4a3ea84c09c28cb538b01a595eff850f234f51bb0aff99f5a142b265",
+     "sha256": "53fafb27d6f27920fb28d4ebc30e79012f840e570a106aa6680b6f7508b04a11",
+     "bytes": 22756
+    }
+   ]
+  },
+  {
+   "id": "round-patron",
+   "name": "FLOW ROUND Patron",
+   "mount": "wall",
+   "image": "round-patron.942124b17c.webp",
+   "colors": [
+    {
+     "id": "black",
+     "name": "Чёрный",
+     "base_color": [
+      0.03,
+      0.032,
+      0.035
+     ],
+     "roughness": 0.42
+    },
+    {
+     "id": "white",
+     "name": "Белый",
+     "base_color": [
+      0.82,
+      0.82,
+      0.82
+     ],
+     "roughness": 0.42
+    }
+   ],
+   "variants": [
+    {
+     "id": "50-right",
+     "name": "50 см, правая",
+     "file": "round-patron.b1b72538f7.glb",
+     "ar_files": {
+      "black": "round-patron.8efd140bcc.ar.glb",
+      "white": "round-patron.3f2913b8fe.ar.glb"
+     },
+     "dimensions_mm": [
+      500.00000000000006,
+      90.00000000000006,
+      92.0
+     ],
+     "source_sha256": "184212f1623989247264565e2095d169470d83b848b0626056109e6866004f70",
+     "sha256": "b1b72538f7194b9c7ac2959813c94408f6d578c400d6d6eab074061fb865744a",
+     "bytes": 10672
+    },
+    {
+     "id": "70-left",
+     "name": "70 см, левая",
+     "file": "round-patron.a15228722e.glb",
+     "ar_files": {
+      "black": "round-patron.e4d9426330.ar.glb",
+      "white": "round-patron.3b32c8c08e.ar.glb"
+     },
+     "dimensions_mm": [
+      700.0,
+      90.00000000000011,
+      92.00000000000006
+     ],
+     "source_sha256": "6354b985b6680c5501b1447821821e5e2cf6ded30d3fc51c8a3f5500ec73ce70",
+     "sha256": "a15228722e191826ac914df5a0508069f4195522228a16657dec6067d855abf5",
+     "bytes": 10860
+    },
+    {
+     "id": "70-right",
+     "name": "70 см, правая",
+     "file": "round-patron.8bac352961.glb",
+     "ar_files": {
+      "black": "round-patron.356b0cd971.ar.glb",
+      "white": "round-patron.8efe42843f.ar.glb"
+     },
+     "dimensions_mm": [
+      700.0,
+      90.00000000000011,
+      92.00000000000006
+     ],
+     "source_sha256": "33b592feb5cfea241209164732d814ce86ed7daf01d71cd0615e9ddfc9c9d2aa",
+     "sha256": "8bac3529611602eb5cba7b78a17efe2c2d97e614812ebcfd73ba876782fb3a02",
+     "bytes": 10160
+    },
+    {
+     "id": "90-right",
+     "name": "90 см, правая",
+     "file": "round-patron.705236f9a7.glb",
+     "ar_files": {
+      "black": "round-patron.dbb6e76c62.ar.glb",
+      "white": "round-patron.e15155e528.ar.glb"
+     },
+     "dimensions_mm": [
+      900.0,
+      90.00000000000006,
+      92.0
+     ],
+     "source_sha256": "062cfb5af4c7e91fc5051595f439ad6e28931032d767ffde2746152cfa9312be",
+     "sha256": "705236f9a752a83326bcc65e2acdc1020163927689c907b06ed20c411b9afb2c",
+     "bytes": 10920
+    },
+    {
+     "id": "120-left",
+     "name": "120 см, левая",
+     "file": "round-patron.2eea7a2f5f.glb",
+     "ar_files": {
+      "black": "round-patron.aeb5e372d1.ar.glb",
+      "white": "round-patron.20de29c3ef.ar.glb"
+     },
+     "dimensions_mm": [
+      1199.9999999999998,
+      90.00000000000011,
+      92.0
+     ],
+     "source_sha256": "cb3db1f5393c9d20cd707855e0ee131ae27e87f6e40d0714ce8cbc4c905d26b1",
+     "sha256": "2eea7a2f5f0bbcf78a8981edc9c61a73441dd02892dfa858aca8badced11ab34",
+     "bytes": 10892
+    },
+    {
+     "id": "120-right",
+     "name": "120 см, правая",
+     "file": "round-patron.8d6cb2ea79.glb",
+     "ar_files": {
+      "black": "round-patron.c772419b0d.ar.glb",
+      "white": "round-patron.c2ca37857d.ar.glb"
+     },
+     "dimensions_mm": [
+      1199.9999999999998,
+      90.00000000000011,
+      92.0
+     ],
+     "source_sha256": "412e9391952f989253b5c5b71bc33e14a0e1cb11b242ae4fb82c51e6763ec0d9",
+     "sha256": "8d6cb2ea79dfd7f957f126f8fed94f5418087e6c3b7eb8995822ae344d489388",
+     "bytes": 11160
+    },
+    {
+     "id": "150-left",
+     "name": "150 см, левая",
+     "file": "round-patron.f28ff86527.glb",
+     "ar_files": {
+      "black": "round-patron.fc40575b38.ar.glb",
+      "white": "round-patron.55bfa0139c.ar.glb"
+     },
+     "dimensions_mm": [
+      1500.0,
+      90.00000000000011,
+      92.0
+     ],
+     "source_sha256": "d4c24de1cec9d4eff78597179045ed4ca090cb1882ef8739031e8bd2e6f51dcf",
+     "sha256": "f28ff865275cd5d56cfbe8328f08632a0bf2a63e268565a84c375c048906cee2",
+     "bytes": 10032
+    },
+    {
+     "id": "150-right",
+     "name": "150 см, правая",
+     "file": "round-patron.78f3458cc4.glb",
+     "ar_files": {
+      "black": "round-patron.110da31afb.ar.glb",
+      "white": "round-patron.0ed51e3148.ar.glb"
+     },
+     "dimensions_mm": [
+      1500.0,
+      90.00000000000011,
+      92.00000000000114
+     ],
+     "source_sha256": "d7d09d68a9fbbc3590b306025e9682380f7275bf91e5191d9630555c0ce189a0",
+     "sha256": "78f3458cc4963fd994524fe3051cecabf027bf6c42f046a6a0f33b08b5bb4c88",
+     "bytes": 10804
+    },
+    {
+     "id": "180-left",
+     "name": "180 см, левая",
+     "file": "round-patron.0568a9007a.glb",
+     "ar_files": {
+      "black": "round-patron.5ee2410c6b.ar.glb",
+      "white": "round-patron.f77ac31189.ar.glb"
+     },
+     "dimensions_mm": [
+      1800.0000000000002,
+      90.0,
+      92.93357647957782
+     ],
+     "source_sha256": "2f5b5c3f8c020f4b711e35ab534914bf98b8507f0b39f0b83cfe13e818294f49",
+     "sha256": "0568a9007a81db167bfcbe0322a7d3f14b6cf5f7f2a3d2864f4365766cf6d393",
+     "bytes": 10044
+    },
+    {
+     "id": "180-right",
+     "name": "180 см, правая",
+     "file": "round-patron.1f2123fc98.glb",
+     "ar_files": {
+      "black": "round-patron.0be5bf1167.ar.glb",
+      "white": "round-patron.9c9a3bb431.ar.glb"
+     },
+     "dimensions_mm": [
+      1800.0000000000002,
+      90.0,
+      92.00000000013688
+     ],
+     "source_sha256": "af6318ff5a887b286745c25ee4cd7dc6baafa6c3d05cc0f13ba92c1b297d9c96",
+     "sha256": "1f2123fc9852df253c5775b9818c164fd001212a12e1ede8f604597009993f1a",
+     "bytes": 10336
+    }
+   ]
+  },
+  {
+   "id": "skyline-double",
+   "name": "FLOW SKYLINE Double",
+   "mount": "wall",
+   "image": "skyline-double.8eacd522ea.webp",
+   "colors": [
+    {
+     "id": "black",
+     "name": "Чёрный",
+     "base_color": [
+      0.03,
+      0.032,
+      0.035
+     ],
+     "roughness": 0.42
+    },
+    {
+     "id": "white",
+     "name": "Белый",
+     "base_color": [
+      0.82,
+      0.82,
+      0.82
+     ],
+     "roughness": 0.42
+    }
+   ],
+   "variants": [
+    {
+     "id": "70-left",
+     "name": "70 см, левая",
+     "file": "skyline-double.8f9c14b429.glb",
+     "ar_files": {
+      "black": "skyline-double.67683cf9cf.ar.glb",
+      "white": "skyline-double.ff57d5d5ef.ar.glb"
+     },
+     "dimensions_mm": [
+      700.0,
+      90.00000000000006,
+      92.00000000000006
+     ],
+     "source_sha256": "2310ed4dc3d05669bc44500d06df4f58a0f09938bc79d0b8a87fb44327fb46ea",
+     "sha256": "8f9c14b429ae9d0605ee8d09bf09b826698c3e00d2cfa23d29053a1390479382",
+     "bytes": 7864
+    },
+    {
+     "id": "70-right",
+     "name": "70 см, правая",
+     "file": "skyline-double.2702298909.glb",
+     "ar_files": {
+      "black": "skyline-double.decb29703d.ar.glb",
+      "white": "skyline-double.394750680d.ar.glb"
+     },
+     "dimensions_mm": [
+      700.0,
+      90.00000000000011,
+      92.00000000000006
+     ],
+     "source_sha256": "62c66cab16daf666d220fc3bf251bfe38c6cb045e9ab66a275f60f2197ee6a23",
+     "sha256": "2702298909d05fcdf13aa65e481adcf3190a27e9316a5ef6103aadfcaffda214",
+     "bytes": 6280
+    },
+    {
+     "id": "100-left",
+     "name": "100 см, левая",
+     "file": "skyline-double.0a59c49acd.glb",
+     "ar_files": {
+      "black": "skyline-double.de6c9c73bd.ar.glb",
+      "white": "skyline-double.5d103ed5b5.ar.glb"
+     },
+     "dimensions_mm": [
+      1000.0000000000002,
+      90.00000000000011,
+      92.0
+     ],
+     "source_sha256": "74a959fb3cc5d1da367f3515ea8d2ce60c835d65fd38474371195af9d5964e03",
+     "sha256": "0a59c49acdbc6cde29fc0482e6be5b34312b1415a800cf5124d95e5a27498215",
+     "bytes": 7084
+    },
+    {
+     "id": "100-right",
+     "name": "100 см, правая",
+     "file": "skyline-double.9135b6b8d0.glb",
+     "ar_files": {
+      "black": "skyline-double.3332071c22.ar.glb",
+      "white": "skyline-double.da8e9a4d32.ar.glb"
+     },
+     "dimensions_mm": [
+      1000.0000000000002,
+      90.00000000000011,
+      92.0
+     ],
+     "source_sha256": "94e1a34728c48da39eb7f8ba97d7414ae53e5a1b58f8beddc2a0128aace59893",
+     "sha256": "9135b6b8d010a69485f4ae5c888c9c5a65457251c15f72b105beb4838c4db30a",
+     "bytes": 7196
+    }
+   ]
+  },
+  {
+   "id": "skyline-duetto",
+   "name": "FLOW SKYLINE Duetto",
+   "mount": "wall",
+   "image": "skyline-duetto.8d89ac4d3a.webp",
+   "colors": [
+    {
+     "id": "black",
+     "name": "Чёрный",
+     "base_color": [
+      0.03,
+      0.032,
+      0.035
+     ],
+     "roughness": 0.42
+    },
+    {
+     "id": "white",
+     "name": "Белый",
+     "base_color": [
+      0.82,
+      0.82,
+      0.82
+     ],
+     "roughness": 0.42
+    }
+   ],
+   "variants": [
+    {
+     "id": "left",
+     "name": "Левая",
+     "file": "skyline-duetto.31fd1d3fb6.glb",
+     "ar_files": {
+      "black": "skyline-duetto.0825b24321.ar.glb",
+      "white": "skyline-duetto.2a8f0755b4.ar.glb"
+     },
+     "dimensions_mm": [
+      260.0,
+      79.99999999999999,
+      129.00000000000009
+     ],
+     "source_sha256": "78a9f32d27ae0394a25927ca3ac14937eba8b1f8572ff2584695ae6b4092a215",
+     "sha256": "31fd1d3fb63e1be9d44596be1df73c4667bdc5f87cf0888ddaf89c31aa4d3f3a",
+     "bytes": 9100
+    },
+    {
+     "id": "right",
+     "name": "Правая",
+     "file": "skyline-duetto.b247cfd9f1.glb",
+     "ar_files": {
+      "black": "skyline-duetto.b3e52ea77e.ar.glb",
+      "white": "skyline-duetto.d70f93fab1.ar.glb"
+     },
+     "dimensions_mm": [
+      260.0,
+      80.0,
+      129.00000000000006
+     ],
+     "source_sha256": "a47fe56b6010896d20e199dbba742e34170a3da89d9ae4623aa7fb5463f9e318",
+     "sha256": "b247cfd9f1c5f207a7a138939bc207bb6bec2b4236d7d606b7d6942375a7e7e7",
+     "bytes": 8276
+    }
+   ]
+  },
+  {
+   "id": "skyline-hook",
+   "name": "FLOW SKYLINE Hook",
+   "mount": "wall",
+   "image": "skyline-hook.06548dc742.webp",
+   "colors": [
+    {
+     "id": "black",
+     "name": "Чёрный",
+     "base_color": [
+      0.03,
+      0.032,
+      0.035
+     ],
+     "roughness": 0.42
+    },
+    {
+     "id": "white",
+     "name": "Белый",
+     "base_color": [
+      0.82,
+      0.82,
+      0.82
+     ],
+     "roughness": 0.42
+    }
+   ],
+   "variants": [
+    {
+     "id": "30",
+     "name": "30 см",
+     "file": "skyline-hook.42508c0bad.glb",
+     "ar_files": {
+      "black": "skyline-hook.6613be1db3.ar.glb",
+      "white": "skyline-hook.47f63e26c8.ar.glb"
+     },
+     "dimensions_mm": [
+      299.99999999999994,
+      90.0,
+      92.0
+     ],
+     "source_sha256": "7a306efc3d438b8cd7778d880347eeaeaaee1df21c27dbae603eb1078ac6676f",
+     "sha256": "42508c0badd8e71f57fe278dc58169ef42c87d58f96807d2142388f35a95b92d",
+     "bytes": 13200
+    },
+    {
+     "id": "40",
+     "name": "40 см",
+     "file": "skyline-hook.243f592eab.glb",
+     "ar_files": {
+      "black": "skyline-hook.ae457ece33.ar.glb",
+      "white": "skyline-hook.1c30da777a.ar.glb"
+     },
+     "dimensions_mm": [
+      400.0,
+      90.00000000000009,
+      92.0
+     ],
+     "source_sha256": "c0a0f95e283e064d8bbf158466be994bc3cc438eb02bc4d8b713ced92bf84547",
+     "sha256": "243f592eab44cf303817956796630b6fcb9134da0b0fc2ffc811f9429726137e",
+     "bytes": 15268
+    },
+    {
+     "id": "60",
+     "name": "60 см",
+     "file": "skyline-hook.4c59722724.glb",
+     "ar_files": {
+      "black": "skyline-hook.36fdf990e3.ar.glb",
+      "white": "skyline-hook.8b5277fc9e.ar.glb"
+     },
+     "dimensions_mm": [
+      600.0,
+      90.00000000000006,
+      92.0
+     ],
+     "source_sha256": "e323888b34a4f3cd5732c558abe5aa832a091e43107ac6ebb3f573fea6a3120b",
+     "sha256": "4c5972272485f95cfdf4c82c78ef6462c8d167bbaf2ae919a5742541cd9ed957",
+     "bytes": 18392
+    },
+    {
+     "id": "80",
+     "name": "80 см",
+     "file": "skyline-hook.296002e18e.glb",
+     "ar_files": {
+      "black": "skyline-hook.ce70738b4f.ar.glb",
+      "white": "skyline-hook.74b30f0a68.ar.glb"
+     },
+     "dimensions_mm": [
+      800.0000000000001,
+      90.00000000000006,
+      92.00000000000023
+     ],
+     "source_sha256": "dfc131c9c8b467f1650ad80f0fa6c950e4c199485d975e6c908ca348f091dd6c",
+     "sha256": "296002e18e838f55db7fb3d8e7076fbca26c659987a2f48a909c8705e11b9f31",
+     "bytes": 22108
+    }
+   ]
+  },
+  {
+   "id": "skyline-patron",
+   "name": "FLOW SKYLINE Patron",
+   "mount": "wall",
+   "image": "skyline-patron.7bc2d17182.webp",
+   "colors": [
+    {
+     "id": "black",
+     "name": "Чёрный",
+     "base_color": [
+      0.03,
+      0.032,
+      0.035
+     ],
+     "roughness": 0.42
+    },
+    {
+     "id": "white",
+     "name": "Белый",
+     "base_color": [
+      0.82,
+      0.82,
+      0.82
+     ],
+     "roughness": 0.42
+    }
+   ],
+   "variants": [
+    {
+     "id": "50-left",
+     "name": "50 см, левая",
+     "file": "skyline-patron.6eff7e2ad9.glb",
+     "ar_files": {
+      "black": "skyline-patron.484a05e3b9.ar.glb",
+      "white": "skyline-patron.5d1221a854.ar.glb"
+     },
+     "dimensions_mm": [
+      500.00000000000006,
+      90.0,
+      93.5
+     ],
+     "source_sha256": "37d98121c8dd0e202d0398eea1a7e6d6b434e388cdc31d45062c2e608bf521de",
+     "sha256": "6eff7e2ad99fb5af470ee83fca6ec5020dbe31f74e1f70398767abfdb1038546",
+     "bytes": 10376
+    },
+    {
+     "id": "50-right",
+     "name": "50 см, правая",
+     "file": "skyline-patron.eaa9aaf991.glb",
+     "ar_files": {
+      "black": "skyline-patron.a8e71ac4c8.ar.glb",
+      "white": "skyline-patron.500c98a3a0.ar.glb"
+     },
+     "dimensions_mm": [
+      500.0,
+      90.00000000000006,
+      92.0
+     ],
+     "source_sha256": "938052d77310669e4bb712b47f41b45cef64da9e2701c87ac89810eeb950bd81",
+     "sha256": "eaa9aaf99156fd886f22f6cb2a0b6496e3e5bac8b59727cd48180aeb7b33bf4a",
+     "bytes": 10008
+    },
+    {
+     "id": "70-left",
+     "name": "70 см, левая",
+     "file": "skyline-patron.e5a0af70a5.glb",
+     "ar_files": {
+      "black": "skyline-patron.7620a3389b.ar.glb",
+      "white": "skyline-patron.33a4950c1e.ar.glb"
+     },
+     "dimensions_mm": [
+      700.0,
+      90.00000000000006,
+      92.00000000000006
+     ],
+     "source_sha256": "20e1c8d4f4af664948c928939d94fba475019c5aa35d3ab7c716a141b2227020",
+     "sha256": "e5a0af70a5d18a6cf51797cf3ad49292b1f6568207778a820aea4a51e37c0496",
+     "bytes": 10280
+    },
+    {
+     "id": "70-right",
+     "name": "70 см, правая",
+     "file": "skyline-patron.4f8c165ac4.glb",
+     "ar_files": {
+      "black": "skyline-patron.9398e0c463.ar.glb",
+      "white": "skyline-patron.c9aa00cd4f.ar.glb"
+     },
+     "dimensions_mm": [
+      700.0,
+      90.00000000000006,
+      92.00000000000006
+     ],
+     "source_sha256": "4aaa0659e3ced7fee3244c3f878e2e53d7b3b369fbf6218696376f7cf626dc85",
+     "sha256": "4f8c165ac44ea4dbf05088d41ae56206689c649ad2ef864672174b3dacb4d64b",
+     "bytes": 9616
+    },
+    {
+     "id": "90-left",
+     "name": "90 см, левая",
+     "file": "skyline-patron.46650fffa3.glb",
+     "ar_files": {
+      "black": "skyline-patron.7729d01405.ar.glb",
+      "white": "skyline-patron.1bd7bb34c4.ar.glb"
+     },
+     "dimensions_mm": [
+      900.0,
+      90.0,
+      92.0
+     ],
+     "source_sha256": "34c474cd72aae74c84ad2d6c08e1bc3e9f489f72360eec25bc3b70d709989cdf",
+     "sha256": "46650fffa30072c4534ccd00c99cec6026e517f5cd8575371a2890d110497c6e",
+     "bytes": 10876
+    },
+    {
+     "id": "90-right",
+     "name": "90 см, правая",
+     "file": "skyline-patron.a2c3f439a1.glb",
+     "ar_files": {
+      "black": "skyline-patron.eed4969630.ar.glb",
+      "white": "skyline-patron.c8af0010d0.ar.glb"
+     },
+     "dimensions_mm": [
+      900.0,
+      90.0,
+      92.0
+     ],
+     "source_sha256": "ddcc8855672d2305f2749ca472693251a28f7bc9739a07df113aab3219c41763",
+     "sha256": "a2c3f439a16ed1c9d0289f05ba4d85a4d68d0c89931099c20904ef80ab97ee7a",
+     "bytes": 10328
+    },
+    {
+     "id": "120-left",
+     "name": "120 см, левая",
+     "file": "skyline-patron.7c9f0c8bb1.glb",
+     "ar_files": {
+      "black": "skyline-patron.bb614b6525.ar.glb",
+      "white": "skyline-patron.d6b47240da.ar.glb"
+     },
+     "dimensions_mm": [
+      1200.0,
+      90.00000000000011,
+      92.0
+     ],
+     "source_sha256": "a1ee05d992be49931e8124a4db39a7bf20dc853ba763001ea7f54b4ff076795a",
+     "sha256": "7c9f0c8bb1b598092488d3a9ec7faf1544e82f113eb415e0c43a2514f92110b6",
+     "bytes": 10292
+    },
+    {
+     "id": "120-right",
+     "name": "120 см, правая",
+     "file": "skyline-patron.852fe8cd12.glb",
+     "ar_files": {
+      "black": "skyline-patron.a96699505e.ar.glb",
+      "white": "skyline-patron.51b1589d12.ar.glb"
+     },
+     "dimensions_mm": [
+      1200.0,
+      90.00000000000011,
+      92.0
+     ],
+     "source_sha256": "880dc2768f50931cb073f489da166e62acbcdb66e7885b6acfd50d7df25902fd",
+     "sha256": "852fe8cd1245aa124aaf6a7fba160049a413314ad067dabd8a60c4d86f71007a",
+     "bytes": 10544
+    },
+    {
+     "id": "150-left",
+     "name": "150 см, левая",
+     "file": "skyline-patron.3f0924541f.glb",
+     "ar_files": {
+      "black": "skyline-patron.f8a80672ad.ar.glb",
+      "white": "skyline-patron.6425ef5a36.ar.glb"
+     },
+     "dimensions_mm": [
+      1500.0000000000002,
+      90.00000000000011,
+      92.0
+     ],
+     "source_sha256": "d8e0b473152266811f698ec3331d7d9319a9810ec7e37e5a406d0b56069dfd10",
+     "sha256": "3f0924541fa5d29d7e01c922bafb689065367502dc52c6782abd1040c28893da",
+     "bytes": 9432
+    },
+    {
+     "id": "150-right",
+     "name": "150 см, правая",
+     "file": "skyline-patron.3357d4a842.glb",
+     "ar_files": {
+      "black": "skyline-patron.92740e528e.ar.glb",
+      "white": "skyline-patron.7debffca82.ar.glb"
+     },
+     "dimensions_mm": [
+      1500.0000000000002,
+      90.00000000000011,
+      92.00000000000114
+     ],
+     "source_sha256": "a83b26815cb19753bd9e91f48ae92ae83c45f3a20b679d63901b1abbb98ae7ac",
+     "sha256": "3357d4a8425e7bab129a6fc93e98230b409b4461ac21d9e2df7bf20b40a503bb",
+     "bytes": 10176
+    },
+    {
+     "id": "180-left",
+     "name": "180 см, левая",
+     "file": "skyline-patron.35e0e94ee6.glb",
+     "ar_files": {
+      "black": "skyline-patron.ce545c6811.ar.glb",
+      "white": "skyline-patron.d918f82b37.ar.glb"
+     },
+     "dimensions_mm": [
+      1800.0000000000002,
+      89.99999999999989,
+      92.93357647957782
+     ],
+     "source_sha256": "6944065d0a7baf15f218ef63103144a83e940318f237ccd8edb0d37b4b8e78cf",
+     "sha256": "35e0e94ee683c828891474c103e5a308bdb62738b9c3418a14602171023ac955",
+     "bytes": 9412
+    },
+    {
+     "id": "180-right",
+     "name": "180 см, правая",
+     "file": "skyline-patron.0359ffac29.glb",
+     "ar_files": {
+      "black": "skyline-patron.cfc24aef24.ar.glb",
+      "white": "skyline-patron.fb6174ba5b.ar.glb"
+     },
+     "dimensions_mm": [
+      1800.0000000000002,
+      89.99999999999989,
+      92.00000000013688
+     ],
+     "source_sha256": "08c1571bc509df327536c0dcaf6db5c259f15100185a53ed1d7576ae38e34f9b",
+     "sha256": "0359ffac29dd10971a567e561621eb7d1f32cb6f65bbf406feffedbeb476bb11",
+     "bytes": 9728
+    }
+   ]
+  },
+  {
+   "id": "skyline-prima",
+   "name": "FLOW SKYLINE Prima",
+   "mount": "wall",
+   "image": "skyline-prima.24fdd0a94e.webp",
+   "colors": [
+    {
+     "id": "black",
+     "name": "Чёрный",
+     "base_color": [
+      0.03,
+      0.032,
+      0.035
+     ],
+     "roughness": 0.42
+    },
+    {
+     "id": "white",
+     "name": "Белый",
+     "base_color": [
+      0.82,
+      0.82,
+      0.82
+     ],
+     "roughness": 0.42
+    }
+   ],
+   "variants": [
+    {
+     "id": "без-крючков",
+     "name": "Без крючков",
+     "file": "skyline-prima.ab40c0734b.glb",
+     "ar_files": {
+      "black": "skyline-prima.7fff6bc03a.ar.glb",
+      "white": "skyline-prima.a89890ff95.ar.glb"
+     },
+     "dimensions_mm": [
+      151.16549101520428,
+      1000.0,
+      96.00000000001523
+     ],
+     "source_sha256": "3191177700cc42eca1595e2ceb00a4c6bbfed551886ff4f80d525d220f4261dd",
+     "sha256": "ab40c0734b1809e9e0bd280560d18f25f06b1609f907f0314428bcddf171fdd9",
+     "bytes": 9716
+    },
+    {
+     "id": "с-крючками",
+     "name": "С крючками",
+     "file": "skyline-prima.36cc87a142.glb",
+     "ar_files": {
+      "black": "skyline-prima.adfa30ede4.ar.glb",
+      "white": "skyline-prima.fb56256d1b.ar.glb"
+     },
+     "dimensions_mm": [
+      151.16549101520434,
+      1000.0,
+      96.00000000001444
+     ],
+     "source_sha256": "24d9697712205cb857f35aea7330f6033b7564dc550ce4bfc71e5d066f029588",
+     "sha256": "36cc87a142c90cb8bc3a6e5b82989aceb31cb2f974dc6073ce6abbf6e12c203c",
+     "bytes": 16796
+    }
+   ]
+  },
+  {
+   "id": "skyline-trio",
+   "name": "FLOW SKYLINE Trio",
+   "mount": "wall",
+   "image": "skyline-trio.668af11c20.webp",
+   "colors": [
+    {
+     "id": "black",
+     "name": "Чёрный",
+     "base_color": [
+      0.03,
+      0.032,
+      0.035
+     ],
+     "roughness": 0.42
+    },
+    {
+     "id": "white",
+     "name": "Белый",
+     "base_color": [
+      0.82,
+      0.82,
+      0.82
+     ],
+     "roughness": 0.42
+    }
+   ],
+   "variants": [
+    {
+     "id": "left",
+     "name": "Левая",
+     "file": "skyline-trio.6f8c160697.glb",
+     "ar_files": {
+      "black": "skyline-trio.2d76edaf5b.ar.glb",
+      "white": "skyline-trio.363ea76e30.ar.glb"
+     },
+     "dimensions_mm": [
+      700.0,
+      90.00000000000011,
+      130.0
+     ],
+     "source_sha256": "6d558b36119f4bdd195e9640d4cf01bd6dbea5fbb42b443851c4730f4c421937",
+     "sha256": "6f8c1606977ac115a6c0707594dfddf2cb8a620089801457aa60f8dbf810a91d",
+     "bytes": 8292
+    },
+    {
+     "id": "right",
+     "name": "Правая",
+     "file": "skyline-trio.0bf8a36601.glb",
+     "ar_files": {
+      "black": "skyline-trio.238cdffb48.ar.glb",
+      "white": "skyline-trio.57671b9a29.ar.glb"
+     },
+     "dimensions_mm": [
+      700.0,
+      90.00000000000006,
+      130.0
+     ],
+     "source_sha256": "06e2f19a2320084a86556120d9e642a34deb72b0d1487617a7a92d73b61becf0",
+     "sha256": "0bf8a36601404dff9f832ced8fa1c9c0f9f6bcb65a2bf7754213000e94749c91",
+     "bytes": 8100
+    }
+   ]
+  }
+ ]
+}

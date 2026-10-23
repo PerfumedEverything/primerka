@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" href="data:," />
+    <link href="./_app/immutable/entry/start.CivyLuEQ.js" rel="modulepreload">
+		<link href="./_app/immutable/entry/payload.DSmR2FwN.js" rel="modulepreload">
+		<link href="./_app/immutable/chunks/CRzLMJPS.js" rel="modulepreload">
+		<link href="./_app/immutable/chunks/DkEi4gf1.js" rel="modulepreload">
+		<link href="./_app/immutable/chunks/Cia0HBAw.js" rel="modulepreload">
+		<link href="./_app/immutable/chunks/fFIVVrKL.js" rel="modulepreload">
+		<link href="./_app/immutable/chunks/BrWOL3NZ.js" rel="modulepreload">
+		<link href="./_app/immutable/entry/app.CrgoTmYT.js" rel="modulepreload">
+		<link href="./_app/immutable/nodes/0.B9kuDEOX.js" rel="modulepreload">
+		<link href="./_app/immutable/chunks/XKyaHtl9.js" rel="modulepreload">
+		<link href="./_app/immutable/nodes/3.B2cQpHDA.js" rel="modulepreload">
+		<link href="./_app/immutable/chunks/BILWH_Wa.js" rel="modulepreload">
+		<!--j15r9w--><!----><title>Добавить товар</title>
+		<link href="./_app/immutable/assets/styles.BBLEfeU5.css" rel="stylesheet">
+		<link href="./_app/immutable/assets/3.T-UUiNxi.css" rel="stylesheet">
+  </head>
+  <body data-sveltekit-preload-data="hover">
+    <div style="display: contents"><!--[--><!--[--><!--[0--><!--[--><!--[--><!--[-1--><!--[--><main class="svelte-j15r9w"><a class="back hint svelte-j15r9w" href="./">← К примерке</a> <h1>Добавить товар</h1> <!--[0--><section class="card controls"><!--[-1--><!--]--> <label class="drop svelte-j15r9w"><input type="file" multiple="" accept=".glb,.gltf,.bin,.obj,.mtl,.fbx,.usdz,.usda,.usdc,.usd,.stl,.zip,.jpg,.jpeg,.png,.webp" class="svelte-j15r9w"/> <strong class="svelte-j15r9w">Выберите или перетащите модель</strong> <span class="hint">Файл, папка или ZIP-архив: GLB, OBJ, FBX, USDZ (съёмка на iPhone), STL — вместе с текстурами.</span></label> <!--[-1--><!--]--> <p class="hint">Товар хранится в этом браузере и виден в каталоге в группе «Мои товары».</p></section> <!--[-1--><!--]--><!--]--></main><!--]--><!--]--><!--]--><!----><!--]--><!--]--><!--]--><!----> <!--[-1--><!--]--><!--]-->
+			
+			<script>
+				{
+					__sveltekit_19qw1ps = {
+						base: new URL(".", location).pathname.slice(0, -1),
+						version: "1792756028475",
+						assets: "/primerka"
+					};
+
+					const element = document.currentScript.parentElement;
+
+					import("./_app/immutable/entry/start.CivyLuEQ.js").then(async (kit) => {
+						kit.init(__sveltekit_19qw1ps);
+						const app = await import("./_app/immutable/entry/app.CrgoTmYT.js");
+						kit.start(app, element, {
+							node_ids: [0, 3],
+							data: [null,null],
+							form: null,
+							error: null
+						});
+					});
+
+					if ('serviceWorker' in navigator) {
+						const script_url = './service-worker.js';
+						const policy = globalThis?.window?.trustedTypes?.createPolicy(
+							'sveltekit-trusted-url',
+							{ createScriptURL(url) { return url; } }
+						);
+						const sanitised = policy?.createScriptURL(script_url) ?? script_url;
+						addEventListener('load', function () {
+							navigator.serviceWorker.register(sanitised, { type: 'module' });
+						});
+					}
+				}
+			</script>
+		</div>
+  </body>
+</html>
